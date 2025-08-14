@@ -1,0 +1,24 @@
+"         Total recoil spectrum "
+" Initial neutron energy corresponds to the group:"
+   4.78630E-11    5.01187E-11       0.00000E+00             1             5             5
+ Debug druck set-a:     1      1.24544E+14        4.71300E-13        5.86975E+01
+ Debug druck set-a:     2      5.60545E+12        4.93500E-13        2.76629E+00
+ Debug druck set-a:     3      5.60621E+12        5.16700E-13        2.89673E+00
+ Debug druck set-a:     4      5.60056E+12        5.41099E-13        3.03046E+00
+ Debug druck set-a:     5      2.54271E+12        5.66601E-13        1.44070E+00
+
+
+
+          Low               High              Mid              Energy           Number             dn/de            E*dn/de          Cumulative
+         Energy            Energy            Energy             Width          Fraction                               Sum   
+         [MeV]             [MeV]             [MeV]              [MeV]
+
+       1.00000E-11       1.04713E-11       1.02357E-11       4.71300E-13       8.52769E-01       1.80940E+12       1.85203E+01       8.52769E-01
+       1.04713E-11       1.09648E-11       1.07180E-11       4.93500E-13       4.01892E-02       8.14371E+10       8.72847E-01       8.92958E-01
+       1.09648E-11       1.14815E-11       1.12232E-11       5.16700E-13       4.20843E-02       8.14481E+10       9.14104E-01       9.35042E-01
+       1.14815E-11       1.20226E-11       1.17521E-11       5.41099E-13       4.40271E-02       8.13660E+10       9.56218E-01       9.79069E-01
+       1.20226E-11       1.25892E-11       1.23059E-11       5.66601E-13       2.09308E-02       3.69410E+10       4.54592E-01       1.00000E+00
+
+ Sum =                                                                         1.00000E+00
+ Renormalization bin#    35 =                                                  6.88317E+01 barn        4.78630E-05        5.01187E-05        4.89908E-05
+ Avg. Energy     bin#    35 =                                                  1.04067E-11 MeV         4.78630E-05        5.01187E-05

@@ -1,0 +1,24 @@
+"         Total recoil spectrum "
+" Initial neutron energy corresponds to the group:"
+   2.18776E-10    2.29087E-10       0.00000E+00             1             5             5
+ Debug druck set-a:     1      2.74500E+13        4.71300E-13        1.29372E+01
+ Debug druck set-a:     2      1.23528E+12        4.93500E-13        6.09609E-01
+ Debug druck set-a:     3      1.23543E+12        5.16700E-13        6.38345E-01
+ Debug druck set-a:     4      1.21950E+12        5.41099E-13        6.59870E-01
+ Debug druck set-a:     5      4.32375E+11        5.66601E-13        2.44984E-01
+
+
+
+          Low               High              Mid              Energy           Number             dn/de            E*dn/de          Cumulative
+         Energy            Energy            Energy             Width          Fraction                               Sum   
+         [MeV]             [MeV]             [MeV]              [MeV]
+
+       1.00000E-11       1.04713E-11       1.02357E-11       4.71300E-13       8.57336E-01       1.81909E+12       1.86195E+01       8.57336E-01
+       1.04713E-11       1.09648E-11       1.07180E-11       4.93500E-13       4.03982E-02       8.18606E+10       8.77386E-01       8.97734E-01
+       1.09648E-11       1.14815E-11       1.12232E-11       5.16700E-13       4.23025E-02       8.18705E+10       9.18845E-01       9.40036E-01
+       1.14815E-11       1.20226E-11       1.17521E-11       5.41099E-13       4.37289E-02       8.08150E+10       9.49742E-01       9.83765E-01
+       1.20226E-11       1.25892E-11       1.23059E-11       5.66601E-13       1.62349E-02       2.86531E+10       3.52602E-01       1.00000E+00
+
+ Sum =                                                                         1.00000E+00
+ Renormalization bin#    68 =                                                  1.50900E+01 barn        2.18776E-04        2.29087E-04        2.23932E-04
+ Avg. Energy     bin#    68 =                                                  1.03968E-11 MeV         2.18776E-04        2.29087E-04

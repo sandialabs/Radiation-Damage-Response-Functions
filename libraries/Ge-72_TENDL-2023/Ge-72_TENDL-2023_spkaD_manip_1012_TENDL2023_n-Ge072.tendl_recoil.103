@@ -1,0 +1,1602 @@
+"        MT=103 recoil spectrum "
+" Initial neutron energy corresponds to the group:"
+   2.72000E+01    2.74000E+01       0.00000E+00            79           872           794
+ Debug druck set-a:    79      0.00000E+00        1.71110E-11        0.00000E+00
+ Debug druck set-a:    80      5.76125E-02        1.79180E-11        1.03230E-12
+ Debug druck set-a:    81      5.76164E-02        1.87620E-11        1.08100E-12
+ Debug druck set-a:    82      5.76118E-02        1.96470E-11        1.13190E-12
+ Debug druck set-a:    83      5.76172E-02        2.05720E-11        1.18530E-12
+ Debug druck set-a:    84      5.76130E-02        2.15420E-11        1.24110E-12
+ Debug druck set-a:    85      5.76141E-02        2.25570E-11        1.29960E-12
+ Debug druck set-a:    86      5.76139E-02        2.36210E-11        1.36090E-12
+ Debug druck set-a:    87      5.76154E-02        2.47330E-11        1.42500E-12
+ Debug druck set-a:    88      5.76161E-02        2.58990E-11        1.49220E-12
+ Debug druck set-a:    89      5.76143E-02        2.71200E-11        1.56250E-12
+ Debug druck set-a:    90      5.76152E-02        2.83970E-11        1.63610E-12
+ Debug druck set-a:    91      5.76137E-02        2.97360E-11        1.71320E-12
+ Debug druck set-a:    92      5.76145E-02        3.11380E-11        1.79400E-12
+ Debug druck set-a:    93      5.76138E-02        3.26050E-11        1.87850E-12
+ Debug druck set-a:    94      5.76153E-02        3.41420E-11        1.96710E-12
+ Debug druck set-a:    95      5.76168E-02        3.57500E-11        2.05980E-12
+ Debug druck set-a:    96      5.76156E-02        3.74360E-11        2.15690E-12
+ Debug druck set-a:    97      5.76148E-02        3.92000E-11        2.25850E-12
+ Debug druck set-a:    98      5.76145E-02        4.10470E-11        2.36490E-12
+ Debug druck set-a:    99      5.76148E-02        4.29820E-11        2.47640E-12
+ Debug druck set-a:   100      5.76154E-02        4.50070E-11        2.59310E-12
+ Debug druck set-a:   101      5.76131E-02        4.71299E-11        2.71530E-12
+ Debug druck set-a:   102      5.76130E-02        4.93500E-11        2.84320E-12
+ Debug druck set-a:   103      5.76214E-02        5.16700E-11        2.97730E-12
+ Debug druck set-a:   104      5.76159E-02        5.41101E-11        3.11760E-12
+ Debug druck set-a:   105      5.76157E-02        5.66599E-11        3.26450E-12
+ Debug druck set-a:   106      5.76070E-02        5.93400E-11        3.41840E-12
+ Debug druck set-a:   107      5.76223E-02        6.21200E-11        3.57950E-12
+ Debug druck set-a:   108      5.76115E-02        6.50600E-11        3.74820E-12
+ Debug druck set-a:   109      5.76160E-02        6.81200E-11        3.92480E-12
+ Debug druck set-a:   110      5.76167E-02        7.13300E-11        4.10980E-12
+ Debug druck set-a:   111      5.76104E-02        7.47001E-11        4.30350E-12
+ Debug druck set-a:   112      5.76180E-02        7.82099E-11        4.50630E-12
+ Debug druck set-a:   113      5.76154E-02        8.19000E-11        4.71870E-12
+ Debug druck set-a:   114      5.76154E-02        8.57600E-11        4.94110E-12
+ Debug druck set-a:   115      5.76159E-02        8.97999E-11        5.17390E-12
+ Debug druck set-a:   116      5.76116E-02        9.40401E-11        5.41780E-12
+ Debug druck set-a:   117      5.76182E-02        9.84601E-11        5.67310E-12
+ Debug druck set-a:   118      5.76132E-02        1.03110E-10        5.94050E-12
+ Debug druck set-a:   119      5.76177E-02        1.07960E-10        6.22040E-12
+ Debug druck set-a:   120      5.76119E-02        1.13060E-10        6.51360E-12
+ Debug druck set-a:   121      5.76161E-02        1.18380E-10        6.82060E-12
+ Debug druck set-a:   122      5.76154E-02        1.23960E-10        7.14200E-12
+ Debug druck set-a:   123      5.76163E-02        1.29800E-10        7.47860E-12
+ Debug druck set-a:   124      5.76149E-02        1.35920E-10        7.83100E-12
+ Debug druck set-a:   125      5.76133E-02        1.42330E-10        8.20010E-12
+ Debug druck set-a:   126      5.76159E-02        1.49030E-10        8.58650E-12
+ Debug druck set-a:   127      5.76143E-02        1.56060E-10        8.99130E-12
+ Debug druck set-a:   128      5.76159E-02        1.63410E-10        9.41500E-12
+ Debug druck set-a:   129      5.76161E-02        1.71110E-10        9.85870E-12
+ Debug druck set-a:   130      5.76124E-02        1.79180E-10        1.03230E-11
+ Debug druck set-a:   131      5.76164E-02        1.87620E-10        1.08100E-11
+ Debug druck set-a:   132      5.76119E-02        1.96470E-10        1.13190E-11
+ Debug druck set-a:   133      5.76172E-02        2.05720E-10        1.18530E-11
+ Debug druck set-a:   134      5.76130E-02        2.15420E-10        1.24110E-11
+ Debug druck set-a:   135      5.76140E-02        2.25570E-10        1.29960E-11
+ Debug druck set-a:   136      5.76164E-02        2.36200E-10        1.36090E-11
+ Debug druck set-a:   137      5.76131E-02        2.47340E-10        1.42500E-11
+ Debug druck set-a:   138      5.76161E-02        2.58990E-10        1.49220E-11
+ Debug druck set-a:   139      5.76144E-02        2.71200E-10        1.56250E-11
+ Debug druck set-a:   140      5.76152E-02        2.83970E-10        1.63610E-11
+ Debug druck set-a:   141      5.76136E-02        2.97360E-10        1.71320E-11
+ Debug druck set-a:   142      5.76144E-02        3.11380E-10        1.79400E-11
+ Debug druck set-a:   143      5.76139E-02        3.26050E-10        1.87850E-11
+ Debug druck set-a:   144      5.76152E-02        3.41420E-10        1.96710E-11
+ Debug druck set-a:   145      5.76168E-02        3.57500E-10        2.05980E-11
+ Debug druck set-a:   146      5.76157E-02        3.74360E-10        2.15690E-11
+ Debug druck set-a:   147      5.76148E-02        3.92000E-10        2.25850E-11
+ Debug druck set-a:   148      5.76144E-02        4.10470E-10        2.36490E-11
+ Debug druck set-a:   149      5.76149E-02        4.29819E-10        2.47640E-11
+ Debug druck set-a:   150      5.76155E-02        4.50070E-10        2.59310E-11
+ Debug druck set-a:   151      5.76129E-02        4.71300E-10        2.71530E-11
+ Debug druck set-a:   152      5.76130E-02        4.93499E-10        2.84320E-11
+ Debug druck set-a:   153      5.76214E-02        5.16701E-10        2.97730E-11
+ Debug druck set-a:   154      5.76160E-02        5.41099E-10        3.11760E-11
+ Debug druck set-a:   155      5.76155E-02        5.66601E-10        3.26450E-11
+ Debug druck set-a:   156      5.76070E-02        5.93400E-10        3.41840E-11
+ Debug druck set-a:   157      5.76224E-02        6.21200E-10        3.57950E-11
+ Debug druck set-a:   158      5.76114E-02        6.50601E-10        3.74820E-11
+ Debug druck set-a:   159      5.76160E-02        6.81200E-10        3.92480E-11
+ Debug druck set-a:   160      5.76168E-02        7.13299E-10        4.10980E-11
+ Debug druck set-a:   161      5.76104E-02        7.47001E-10        4.30350E-11
+ Debug druck set-a:   162      5.76179E-02        7.82100E-10        4.50630E-11
+ Debug druck set-a:   163      5.76154E-02        8.18999E-10        4.71870E-11
+ Debug druck set-a:   164      5.76155E-02        8.57599E-10        4.94110E-11
+ Debug druck set-a:   165      5.76157E-02        8.98002E-10        5.17390E-11
+ Debug druck set-a:   166      5.76117E-02        9.40399E-10        5.41780E-11
+ Debug druck set-a:   167      5.76183E-02        9.84600E-10        5.67310E-11
+ Debug druck set-a:   168      5.76132E-02        1.03110E-09        5.94050E-11
+ Debug druck set-a:   169      5.76177E-02        1.07960E-09        6.22040E-11
+ Debug druck set-a:   170      5.76118E-02        1.13060E-09        6.51360E-11
+ Debug druck set-a:   171      5.76161E-02        1.18380E-09        6.82060E-11
+ Debug druck set-a:   172      5.76154E-02        1.23960E-09        7.14200E-11
+ Debug druck set-a:   173      5.76164E-02        1.29800E-09        7.47860E-11
+ Debug druck set-a:   174      5.76148E-02        1.35920E-09        7.83100E-11
+ Debug druck set-a:   175      5.76132E-02        1.42330E-09        8.20010E-11
+ Debug druck set-a:   176      5.76160E-02        1.49030E-09        8.58650E-11
+ Debug druck set-a:   177      5.76144E-02        1.56060E-09        8.99130E-11
+ Debug druck set-a:   178      5.76157E-02        1.63410E-09        9.41500E-11
+ Debug druck set-a:   179      5.76161E-02        1.71110E-09        9.85870E-11
+ Debug druck set-a:   180      5.76125E-02        1.79180E-09        1.03230E-10
+ Debug druck set-a:   181      5.76164E-02        1.87620E-09        1.08100E-10
+ Debug druck set-a:   182      5.76119E-02        1.96470E-09        1.13190E-10
+ Debug druck set-a:   183      5.76171E-02        2.05720E-09        1.18530E-10
+ Debug druck set-a:   184      5.76131E-02        2.15420E-09        1.24110E-10
+ Debug druck set-a:   185      5.76140E-02        2.25570E-09        1.29960E-10
+ Debug druck set-a:   186      5.76164E-02        2.36200E-09        1.36090E-10
+ Debug druck set-a:   187      5.76130E-02        2.47340E-09        1.42500E-10
+ Debug druck set-a:   188      5.76161E-02        2.58990E-09        1.49220E-10
+ Debug druck set-a:   189      5.76143E-02        2.71200E-09        1.56250E-10
+ Debug druck set-a:   190      5.76152E-02        2.83970E-09        1.63610E-10
+ Debug druck set-a:   191      5.76138E-02        2.97359E-09        1.71320E-10
+ Debug druck set-a:   192      5.76145E-02        3.11380E-09        1.79400E-10
+ Debug druck set-a:   193      5.76138E-02        3.26050E-09        1.87850E-10
+ Debug druck set-a:   194      5.76151E-02        3.41421E-09        1.96710E-10
+ Debug druck set-a:   195      5.76168E-02        3.57500E-09        2.05980E-10
+ Debug druck set-a:   196      5.76157E-02        3.74360E-09        2.15690E-10
+ Debug druck set-a:   197      5.76147E-02        3.92000E-09        2.25850E-10
+ Debug druck set-a:   198      5.76145E-02        4.10470E-09        2.36490E-10
+ Debug druck set-a:   199      5.76148E-02        4.29820E-09        2.47640E-10
+ Debug druck set-a:   200      5.76155E-02        4.50070E-09        2.59310E-10
+ Debug druck set-a:   201      5.76130E-02        4.71300E-09        2.71530E-10
+ Debug druck set-a:   202      5.76130E-02        4.93500E-09        2.84320E-10
+ Debug druck set-a:   203      5.76214E-02        5.16700E-09        2.97730E-10
+ Debug druck set-a:   204      5.76159E-02        5.41101E-09        3.11760E-10
+ Debug druck set-a:   205      5.76157E-02        5.66600E-09        3.26450E-10
+ Debug druck set-a:   206      5.76070E-02        5.93400E-09        3.41840E-10
+ Debug druck set-a:   207      5.76224E-02        6.21200E-09        3.57950E-10
+ Debug druck set-a:   208      5.76113E-02        6.50601E-09        3.74820E-10
+ Debug druck set-a:   209      5.76160E-02        6.81199E-09        3.92480E-10
+ Debug druck set-a:   210      5.76167E-02        7.13301E-09        4.10980E-10
+ Debug druck set-a:   211      5.76105E-02        7.47000E-09        4.30350E-10
+ Debug druck set-a:   212      5.76180E-02        7.82099E-09        4.50630E-10
+ Debug druck set-a:   213      5.76153E-02        8.19001E-09        4.71870E-10
+ Debug druck set-a:   214      5.76154E-02        8.57601E-09        4.94110E-10
+ Debug druck set-a:   215      5.76159E-02        8.97999E-09        5.17390E-10
+ Debug druck set-a:   216      5.76116E-02        9.40400E-09        5.41780E-10
+ Debug druck set-a:   217      5.76183E-02        9.84600E-09        5.67310E-10
+ Debug druck set-a:   218      5.76133E-02        1.03110E-08        5.94050E-10
+ Debug druck set-a:   219      5.76176E-02        1.07960E-08        6.22040E-10
+ Debug druck set-a:   220      5.76119E-02        1.13060E-08        6.51360E-10
+ Debug druck set-a:   221      5.76161E-02        1.18380E-08        6.82060E-10
+ Debug druck set-a:   222      5.76155E-02        1.23960E-08        7.14200E-10
+ Debug druck set-a:   223      5.76163E-02        1.29800E-08        7.47860E-10
+ Debug druck set-a:   224      5.76148E-02        1.35920E-08        7.83100E-10
+ Debug druck set-a:   225      5.76133E-02        1.42330E-08        8.20010E-10
+ Debug druck set-a:   226      5.76159E-02        1.49030E-08        8.58650E-10
+ Debug druck set-a:   227      5.76144E-02        1.56060E-08        8.99130E-10
+ Debug druck set-a:   228      5.76158E-02        1.63410E-08        9.41500E-10
+ Debug druck set-a:   229      5.76161E-02        1.71110E-08        9.85870E-10
+ Debug druck set-a:   230      5.76147E-02        1.79180E-08        1.03234E-09
+ Debug druck set-a:   231      5.76159E-02        1.87620E-08        1.08099E-09
+ Debug druck set-a:   232      5.76135E-02        1.96470E-08        1.13193E-09
+ Debug druck set-a:   233      5.76162E-02        2.05720E-08        1.18528E-09
+ Debug druck set-a:   234      5.76149E-02        2.15420E-08        1.24114E-09
+ Debug druck set-a:   235      5.76153E-02        2.25570E-08        1.29963E-09
+ Debug druck set-a:   236      5.76161E-02        2.36200E-08        1.36089E-09
+ Debug druck set-a:   237      5.76139E-02        2.51930E-08        1.45147E-09
+ Debug druck set-a:   238      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   239      5.76151E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   240      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   241      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   242      5.76151E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   243      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   244      5.76151E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   245      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   246      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   247      5.76151E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   248      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   249      5.76151E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   250      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   251      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   252      5.76151E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   253      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   254      5.76151E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   255      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   256      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   257      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   258      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   259      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   260      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   261      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   262      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   263      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   264      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   265      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   266      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   267      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   268      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   269      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   270      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   271      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   272      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   273      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   274      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   275      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   276      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   277      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   278      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   279      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   280      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   281      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   282      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   283      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   284      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   285      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   286      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   287      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   288      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   289      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   290      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   291      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   292      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   293      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   294      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   295      5.76153E-02        2.50000E-08        1.44038E-09
+ Debug druck set-a:   296      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   297      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   298      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   299      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   300      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   301      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   302      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   303      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   304      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   305      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   306      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   307      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   308      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   309      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   310      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   311      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   312      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   313      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   314      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   315      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   316      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   317      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   318      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   319      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   320      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   321      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   322      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   323      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   324      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   325      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   326      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   327      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   328      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   329      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   330      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   331      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   332      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   333      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   334      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   335      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   336      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   337      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   338      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   339      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   340      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   341      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   342      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   343      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   344      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   345      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   346      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   347      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   348      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   349      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   350      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   351      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   352      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   353      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   354      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   355      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   356      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   357      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   358      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   359      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   360      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   361      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   362      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   363      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   364      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   365      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   366      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   367      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   368      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   369      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   370      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   371      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   372      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   373      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   374      5.76155E-02        2.49999E-08        1.44038E-09
+ Debug druck set-a:   375      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   376      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   377      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   378      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   379      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   380      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   381      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   382      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   383      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   384      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   385      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   386      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   387      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   388      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   389      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   390      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   391      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   392      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   393      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   394      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   395      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   396      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   397      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   398      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   399      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   400      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   401      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   402      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   403      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   404      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   405      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   406      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   407      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   408      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   409      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   410      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   411      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   412      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   413      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   414      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   415      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   416      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   417      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   418      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   419      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   420      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   421      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   422      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   423      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   424      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   425      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   426      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   427      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   428      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   429      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   430      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   431      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   432      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   433      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   434      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   435      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   436      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   437      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   438      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   439      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   440      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   441      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   442      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   443      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   444      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   445      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   446      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   447      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   448      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   449      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   450      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   451      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   452      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   453      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   454      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   455      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   456      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   457      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   458      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   459      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   460      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   461      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   462      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   463      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   464      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   465      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   466      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   467      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   468      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   469      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   470      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   471      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   472      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   473      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   474      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   475      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   476      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   477      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   478      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   479      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   480      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   481      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   482      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   483      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   484      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   485      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   486      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   487      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   488      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   489      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   490      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   491      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   492      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   493      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   494      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   495      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   496      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   497      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   498      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   499      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   500      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   501      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   502      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   503      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   504      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   505      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   506      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   507      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   508      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   509      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   510      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   511      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   512      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   513      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   514      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   515      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   516      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   517      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   518      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   519      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   520      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   521      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   522      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   523      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   524      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   525      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   526      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   527      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   528      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   529      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   530      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   531      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   532      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   533      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   534      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   535      5.76150E-02        2.50001E-08        1.44038E-09
+ Debug druck set-a:   536      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   537      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   538      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   539      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   540      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   541      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   542      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   543      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   544      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   545      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   546      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   547      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   548      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   549      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   550      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   551      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   552      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   553      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   554      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   555      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   556      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   557      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   558      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   559      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   560      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   561      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   562      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   563      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   564      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   565      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   566      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   567      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   568      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   569      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   570      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   571      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   572      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   573      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   574      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   575      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   576      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   577      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   578      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   579      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   580      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   581      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   582      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   583      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   584      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   585      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   586      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   587      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   588      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   589      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   590      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   591      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   592      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   593      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   594      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   595      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   596      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   597      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   598      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   599      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   600      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   601      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   602      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   603      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   604      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   605      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   606      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   607      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   608      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   609      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   610      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   611      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   612      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   613      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   614      5.76139E-02        2.50006E-08        1.44038E-09
+ Debug druck set-a:   615      5.76161E-02        2.49996E-08        1.44038E-09
+ Debug druck set-a:   616      5.76138E-02        4.71300E-07        2.71534E-08
+ Debug druck set-a:   617      5.76140E-02        4.93500E-07        2.84325E-08
+ Debug druck set-a:   618      5.76219E-02        5.16700E-07        2.97732E-08
+ Debug druck set-a:   619      5.76150E-02        5.41101E-07        3.11755E-08
+ Debug druck set-a:   620      5.76161E-02        5.66600E-07        3.26453E-08
+ Debug druck set-a:   621      5.76073E-02        5.93400E-07        3.41842E-08
+ Debug druck set-a:   622      5.76216E-02        6.21200E-07        3.57945E-08
+ Debug druck set-a:   623      5.76114E-02        6.50600E-07        3.74820E-08
+ Debug druck set-a:   624      5.76158E-02        6.81200E-07        3.92479E-08
+ Debug druck set-a:   625      5.76167E-02        7.13300E-07        4.10980E-08
+ Debug druck set-a:   626      5.76105E-02        7.47000E-07        4.30350E-08
+ Debug druck set-a:   627      5.76179E-02        7.82101E-07        4.50630E-08
+ Debug druck set-a:   628      5.76150E-02        8.19000E-07        4.71867E-08
+ Debug druck set-a:   629      5.76151E-02        8.57599E-07        4.94107E-08
+ Debug druck set-a:   630      5.76157E-02        8.98001E-07        5.17389E-08
+ Debug druck set-a:   631      5.76114E-02        9.40399E-07        5.41777E-08
+ Debug druck set-a:   632      5.76185E-02        9.84600E-07        5.67312E-08
+ Debug druck set-a:   633      5.76128E-02        1.03110E-06        5.94046E-08
+ Debug druck set-a:   634      5.76178E-02        1.07960E-06        6.22041E-08
+ Debug druck set-a:   635      5.76114E-02        1.13060E-06        6.51355E-08
+ Debug druck set-a:   636      5.76160E-02        1.18380E-06        6.82058E-08
+ Debug druck set-a:   637      5.76156E-02        1.23960E-06        7.14202E-08
+ Debug druck set-a:   638      5.76164E-02        1.29800E-06        7.47861E-08
+ Debug druck set-a:   639      5.76151E-02        1.35920E-06        7.83104E-08
+ Debug druck set-a:   640      5.76134E-02        1.42330E-06        8.20012E-08
+ Debug druck set-a:   641      5.76163E-02        1.49030E-06        8.58654E-08
+ Debug druck set-a:   642      5.76143E-02        1.56060E-06        8.99129E-08
+ Debug druck set-a:   643      5.76157E-02        1.63410E-06        9.41499E-08
+ Debug druck set-a:   644      5.76160E-02        1.71110E-06        9.85868E-08
+ Debug druck set-a:   645      5.76148E-02        1.79180E-06        1.03234E-07
+ Debug druck set-a:   646      5.76159E-02        1.87620E-06        1.08099E-07
+ Debug druck set-a:   647      5.76134E-02        1.96470E-06        1.13193E-07
+ Debug druck set-a:   648      5.76161E-02        2.05720E-06        1.18528E-07
+ Debug druck set-a:   649      5.76149E-02        2.15420E-06        1.24114E-07
+ Debug druck set-a:   650      5.76154E-02        2.25570E-06        1.29963E-07
+ Debug druck set-a:   651      5.76135E-02        2.36210E-06        1.36089E-07
+ Debug druck set-a:   652      5.76161E-02        2.47330E-06        1.42502E-07
+ Debug druck set-a:   653      5.76150E-02        2.58990E-06        1.49217E-07
+ Debug druck set-a:   654      5.76143E-02        2.71200E-06        1.56250E-07
+ Debug druck set-a:   655      5.76167E-02        2.83970E-06        1.63614E-07
+ Debug druck set-a:   656      5.76154E-02        2.97360E-06        1.71325E-07
+ Debug druck set-a:   657      5.76142E-02        3.11380E-06        1.79399E-07
+ Debug druck set-a:   658      5.76150E-02        3.26051E-06        1.87854E-07
+ Debug druck set-a:   659      5.76144E-02        3.41420E-06        1.96707E-07
+ Debug druck set-a:   660      5.76160E-02        3.57500E-06        2.05977E-07
+ Debug druck set-a:   661      5.76143E-02        3.74360E-06        2.15685E-07
+ Debug druck set-a:   662      5.76148E-02        3.92000E-06        2.25850E-07
+ Debug druck set-a:   663      5.76153E-02        4.10471E-06        2.36494E-07
+ Debug druck set-a:   664      5.76149E-02        4.29820E-06        2.47640E-07
+ Debug druck set-a:   665      5.76155E-02        4.50070E-06        2.59310E-07
+ Debug druck set-a:   666      5.76139E-02        4.71300E-06        2.71534E-07
+ Debug druck set-a:   667      5.76139E-02        4.93501E-06        2.84325E-07
+ Debug druck set-a:   668      5.76218E-02        5.16700E-06        2.97732E-07
+ Debug druck set-a:   669      5.76151E-02        5.41100E-06        3.11755E-07
+ Debug druck set-a:   670      5.76161E-02        5.66600E-06        3.26453E-07
+ Debug druck set-a:   671      5.76073E-02        5.93401E-06        3.41842E-07
+ Debug druck set-a:   672      5.76216E-02        6.21199E-06        3.57945E-07
+ Debug druck set-a:   673      5.76113E-02        6.50601E-06        3.74820E-07
+ Debug druck set-a:   674      5.76159E-02        6.81200E-06        3.92479E-07
+ Debug druck set-a:   675      5.76167E-02        7.13300E-06        4.10980E-07
+ Debug druck set-a:   676      5.76104E-02        7.47000E-06        4.30350E-07
+ Debug druck set-a:   677      5.76180E-02        7.82100E-06        4.50630E-07
+ Debug druck set-a:   678      5.76150E-02        8.19000E-06        4.71867E-07
+ Debug druck set-a:   679      5.76151E-02        8.57600E-06        4.94107E-07
+ Debug druck set-a:   680      5.76157E-02        8.98000E-06        5.17389E-07
+ Debug druck set-a:   681      5.76114E-02        9.40399E-06        5.41777E-07
+ Debug druck set-a:   682      5.76185E-02        9.84601E-06        5.67312E-07
+ Debug druck set-a:   683      5.76128E-02        1.03110E-05        5.94046E-07
+ Debug druck set-a:   684      5.76178E-02        1.07960E-05        6.22041E-07
+ Debug druck set-a:   685      5.76114E-02        1.13060E-05        6.51355E-07
+ Debug druck set-a:   686      5.76159E-02        1.18380E-05        6.82058E-07
+ Debug druck set-a:   687      5.76155E-02        1.23960E-05        7.14202E-07
+ Debug druck set-a:   688      5.76164E-02        1.29800E-05        7.47861E-07
+ Debug druck set-a:   689      5.76151E-02        1.35920E-05        7.83104E-07
+ Debug druck set-a:   690      5.76134E-02        1.42330E-05        8.20012E-07
+ Debug druck set-a:   691      5.76161E-02        1.49030E-05        8.58654E-07
+ Debug druck set-a:   692      5.76144E-02        1.56060E-05        8.99129E-07
+ Debug druck set-a:   693      5.76157E-02        1.63410E-05        9.41499E-07
+ Debug druck set-a:   694      5.76161E-02        1.71110E-05        9.85868E-07
+ Debug druck set-a:   695      5.76147E-02        1.79180E-05        1.03234E-06
+ Debug druck set-a:   696      5.76159E-02        1.87620E-05        1.08099E-06
+ Debug druck set-a:   697      5.76134E-02        1.96470E-05        1.13193E-06
+ Debug druck set-a:   698      5.76161E-02        2.05720E-05        1.18528E-06
+ Debug druck set-a:   699      5.76149E-02        2.15420E-05        1.24114E-06
+ Debug druck set-a:   700      5.76154E-02        2.25570E-05        1.29963E-06
+ Debug druck set-a:   701      5.76136E-02        2.36210E-05        1.36089E-06
+ Debug druck set-a:   702      5.76161E-02        2.47330E-05        1.42502E-06
+ Debug druck set-a:   703      5.76150E-02        2.58990E-05        1.49217E-06
+ Debug druck set-a:   704      5.76143E-02        2.71200E-05        1.56250E-06
+ Debug druck set-a:   705      5.76167E-02        2.83970E-05        1.63614E-06
+ Debug druck set-a:   706      5.76153E-02        2.97360E-05        1.71325E-06
+ Debug druck set-a:   707      5.76142E-02        3.11380E-05        1.79399E-06
+ Debug druck set-a:   708      5.76151E-02        3.26050E-05        1.87854E-06
+ Debug druck set-a:   709      5.76143E-02        3.41420E-05        1.96707E-06
+ Debug druck set-a:   710      5.76160E-02        3.57500E-05        2.05977E-06
+ Debug druck set-a:   711      5.76144E-02        3.74360E-05        2.15685E-06
+ Debug druck set-a:   712      5.76148E-02        3.92000E-05        2.25850E-06
+ Debug druck set-a:   713      5.76154E-02        4.10470E-05        2.36494E-06
+ Debug druck set-a:   714      5.76148E-02        4.29820E-05        2.47640E-06
+ Debug druck set-a:   715      5.76155E-02        4.50070E-05        2.59310E-06
+ Debug druck set-a:   716      5.76138E-02        4.71300E-05        2.71534E-06
+ Debug druck set-a:   717      5.76140E-02        4.93500E-05        2.84325E-06
+ Debug druck set-a:   718      5.76218E-02        5.16700E-05        2.97732E-06
+ Debug druck set-a:   719      5.76151E-02        5.41100E-05        3.11755E-06
+ Debug druck set-a:   720      5.76161E-02        5.66600E-05        3.26453E-06
+ Debug druck set-a:   721      5.76074E-02        5.93400E-05        3.41842E-06
+ Debug druck set-a:   722      5.76215E-02        6.21200E-05        3.57945E-06
+ Debug druck set-a:   723      5.76115E-02        6.50599E-05        3.74820E-06
+ Debug druck set-a:   724      5.76157E-02        6.81201E-05        3.92479E-06
+ Debug druck set-a:   725      5.76167E-02        7.13300E-05        4.10980E-06
+ Debug druck set-a:   726      5.76105E-02        7.47000E-05        4.30350E-06
+ Debug druck set-a:   727      5.76179E-02        7.82101E-05        4.50630E-06
+ Debug druck set-a:   728      5.76151E-02        8.18999E-05        4.71867E-06
+ Debug druck set-a:   729      5.76151E-02        8.57600E-05        4.94107E-06
+ Debug druck set-a:   730      5.76157E-02        8.98001E-05        5.17389E-06
+ Debug druck set-a:   731      5.76113E-02        9.40400E-05        5.41777E-06
+ Debug druck set-a:   732      5.76185E-02        9.84600E-05        5.67312E-06
+ Debug druck set-a:   733      5.76128E-02        1.03110E-04        5.94046E-06
+ Debug druck set-a:   734      5.76178E-02        1.07960E-04        6.22041E-06
+ Debug druck set-a:   735      5.76115E-02        1.13060E-04        6.51355E-06
+ Debug druck set-a:   736      5.76159E-02        1.18380E-04        6.82058E-06
+ Debug druck set-a:   737      5.76155E-02        1.23960E-04        7.14202E-06
+ Debug druck set-a:   738      5.76164E-02        1.29800E-04        7.47861E-06
+ Debug druck set-a:   739      5.76151E-02        1.35920E-04        7.83104E-06
+ Debug druck set-a:   740      5.76134E-02        1.42330E-04        8.20012E-06
+ Debug druck set-a:   741      5.76162E-02        1.49030E-04        8.58654E-06
+ Debug druck set-a:   742      5.76143E-02        1.56060E-04        8.99129E-06
+ Debug druck set-a:   743      5.76158E-02        1.63410E-04        9.41499E-06
+ Debug druck set-a:   744      5.76161E-02        1.71110E-04        9.85868E-06
+ Debug druck set-a:   745      5.76146E-02        1.79180E-04        1.03234E-05
+ Debug druck set-a:   746      5.76160E-02        1.87620E-04        1.08099E-05
+ Debug druck set-a:   747      5.76133E-02        1.96470E-04        1.13193E-05
+ Debug druck set-a:   748      5.76163E-02        2.05720E-04        1.18528E-05
+ Debug druck set-a:   749      5.76149E-02        2.15420E-04        1.24114E-05
+ Debug druck set-a:   750      5.76153E-02        2.25570E-04        1.29963E-05
+ Debug druck set-a:   751      5.76161E-02        2.36200E-04        1.36089E-05
+ Debug druck set-a:   752      5.76137E-02        2.47340E-04        1.42502E-05
+ Debug druck set-a:   753      5.76150E-02        2.58990E-04        1.49217E-05
+ Debug druck set-a:   754      5.76143E-02        2.71200E-04        1.56250E-05
+ Debug druck set-a:   755      5.76167E-02        2.83970E-04        1.63614E-05
+ Debug druck set-a:   756      5.76153E-02        2.97360E-04        1.71325E-05
+ Debug druck set-a:   757      5.76142E-02        3.11380E-04        1.79399E-05
+ Debug druck set-a:   758      5.76151E-02        3.26050E-04        1.87854E-05
+ Debug druck set-a:   759      5.76144E-02        3.41420E-04        1.96707E-05
+ Debug druck set-a:   760      5.76160E-02        3.57500E-04        2.05977E-05
+ Debug druck set-a:   761      5.76144E-02        3.74360E-04        2.15685E-05
+ Debug druck set-a:   762      5.76148E-02        3.92000E-04        2.25850E-05
+ Debug druck set-a:   763      5.76153E-02        4.10471E-04        2.36494E-05
+ Debug druck set-a:   764      5.76149E-02        4.29819E-04        2.47640E-05
+ Debug druck set-a:   765      5.76154E-02        4.50070E-04        2.59310E-05
+ Debug druck set-a:   766      5.76139E-02        4.71300E-04        2.71534E-05
+ Debug druck set-a:   767      5.76140E-02        4.93500E-04        2.84325E-05
+ Debug druck set-a:   768      5.76218E-02        5.16700E-04        2.97732E-05
+ Debug druck set-a:   769      5.76151E-02        5.41100E-04        3.11755E-05
+ Debug druck set-a:   770      5.76161E-02        5.66601E-04        3.26453E-05
+ Debug druck set-a:   771      5.76074E-02        5.93399E-04        3.41842E-05
+ Debug druck set-a:   772      5.76215E-02        6.21200E-04        3.57945E-05
+ Debug druck set-a:   773      5.76114E-02        6.50601E-04        3.74820E-05
+ Debug druck set-a:   774      5.76159E-02        6.81199E-04        3.92479E-05
+ Debug druck set-a:   775      5.76166E-02        7.13301E-04        4.10980E-05
+ Debug druck set-a:   776      5.76104E-02        7.47000E-04        4.30350E-05
+ Debug druck set-a:   777      5.76180E-02        7.82100E-04        4.50630E-05
+ Debug druck set-a:   778      5.76150E-02        8.19000E-04        4.71867E-05
+ Debug druck set-a:   779      5.76151E-02        8.57600E-04        4.94107E-05
+ Debug druck set-a:   780      5.76157E-02        8.98000E-04        5.17389E-05
+ Debug druck set-a:   781      5.76113E-02        9.40400E-04        5.41777E-05
+ Debug druck set-a:   782      5.76185E-02        9.84600E-04        5.67312E-05
+ Debug druck set-a:   783      5.76129E-02        1.03110E-03        5.94046E-05
+ Debug druck set-a:   784      5.76176E-02        1.07960E-03        6.22041E-05
+ Debug druck set-a:   785      5.76115E-02        1.13060E-03        6.51355E-05
+ Debug druck set-a:   786      5.76160E-02        1.18380E-03        6.82058E-05
+ Debug druck set-a:   787      5.76155E-02        1.23960E-03        7.14202E-05
+ Debug druck set-a:   788      5.76164E-02        1.29800E-03        7.47861E-05
+ Debug druck set-a:   789      5.76151E-02        1.35920E-03        7.83104E-05
+ Debug druck set-a:   790      5.76134E-02        1.42330E-03        8.20012E-05
+ Debug druck set-a:   791      5.76162E-02        1.49030E-03        8.58654E-05
+ Debug druck set-a:   792      5.76144E-02        1.56060E-03        8.99129E-05
+ Debug druck set-a:   793      5.76157E-02        1.63410E-03        9.41499E-05
+ Debug druck set-a:   794      5.76161E-02        1.71110E-03        9.85868E-05
+ Debug druck set-a:   795      5.76147E-02        1.79180E-03        1.03234E-04
+ Debug druck set-a:   796      5.76159E-02        1.87620E-03        1.08099E-04
+ Debug druck set-a:   797      5.76133E-02        1.96470E-03        1.13193E-04
+ Debug druck set-a:   798      5.76162E-02        2.05720E-03        1.18528E-04
+ Debug druck set-a:   799      5.76149E-02        2.15420E-03        1.24114E-04
+ Debug druck set-a:   800      5.76154E-02        2.25570E-03        1.29963E-04
+ Debug druck set-a:   801      5.76135E-02        2.36210E-03        1.36089E-04
+ Debug druck set-a:   802      5.76161E-02        2.47330E-03        1.42502E-04
+ Debug druck set-a:   803      5.76150E-02        2.58990E-03        1.49217E-04
+ Debug druck set-a:   804      5.76143E-02        2.71200E-03        1.56250E-04
+ Debug druck set-a:   805      5.76167E-02        2.83970E-03        1.63614E-04
+ Debug druck set-a:   806      5.76154E-02        2.97360E-03        1.71325E-04
+ Debug druck set-a:   807      5.92606E-02        3.11380E-03        1.84526E-04
+ Debug druck set-a:   808      5.99834E-02        3.26050E-03        1.95576E-04
+ Debug druck set-a:   809      5.99828E-02        3.41420E-03        2.04793E-04
+ Debug druck set-a:   810      5.99846E-02        3.57500E-03        2.14445E-04
+ Debug druck set-a:   811      5.99829E-02        3.74360E-03        2.24552E-04
+ Debug druck set-a:   812      5.99832E-02        3.92000E-03        2.35134E-04
+ Debug druck set-a:   813      5.99839E-02        4.10470E-03        2.46216E-04
+ Debug druck set-a:   814      5.99833E-02        4.29820E-03        2.57820E-04
+ Debug druck set-a:   815      5.99840E-02        4.50070E-03        2.69970E-04
+ Debug druck set-a:   816      5.99824E-02        4.71300E-03        2.82697E-04
+ Debug druck set-a:   817      5.99824E-02        4.93500E-03        2.96013E-04
+ Debug druck set-a:   818      5.99905E-02        5.16700E-03        3.09971E-04
+ Debug druck set-a:   819      5.99835E-02        5.41100E-03        3.24571E-04
+ Debug druck set-a:   820      5.99846E-02        5.66600E-03        3.39873E-04
+ Debug druck set-a:   821      5.99754E-02        5.93400E-03        3.55894E-04
+ Debug druck set-a:   822      5.39264E-02        6.21200E-03        3.34991E-04
+ Debug druck set-a:   823      5.04563E-02        6.50600E-03        3.28269E-04
+ Debug druck set-a:   824      5.04601E-02        6.81200E-03        3.43734E-04
+ Debug druck set-a:   825      5.04608E-02        7.13300E-03        3.59937E-04
+ Debug druck set-a:   826      5.04553E-02        7.47000E-03        3.76901E-04
+ Debug druck set-a:   827      5.04620E-02        7.82100E-03        3.94663E-04
+ Debug druck set-a:   828      5.04593E-02        8.19000E-03        4.13262E-04
+ Debug druck set-a:   829      5.04594E-02        8.57600E-03        4.32740E-04
+ Debug druck set-a:   830      5.04599E-02        8.98000E-03        4.53130E-04
+ Debug druck set-a:   831      4.40615E-02        9.40400E-03        4.14354E-04
+ Debug druck set-a:   832      4.27578E-02        9.84600E-03        4.20993E-04
+ Debug druck set-a:   833      4.27536E-02        1.03110E-02        4.40832E-04
+ Debug druck set-a:   834      4.27571E-02        1.07960E-02        4.61606E-04
+ Debug druck set-a:   835      4.27525E-02        1.13060E-02        4.83360E-04
+ Debug druck set-a:   836      4.27560E-02        1.18380E-02        5.06145E-04
+ Debug druck set-a:   837      3.86865E-02        1.23960E-02        4.79558E-04
+ Debug druck set-a:   838      3.58066E-02        1.29800E-02        4.64770E-04
+ Debug druck set-a:   839      3.58058E-02        1.35920E-02        4.86672E-04
+ Debug druck set-a:   840      3.58047E-02        1.42330E-02        5.09609E-04
+ Debug druck set-a:   841      3.58065E-02        1.49030E-02        5.33624E-04
+ Debug druck set-a:   842      3.19443E-02        1.56060E-02        4.98523E-04
+ Debug druck set-a:   843      3.05817E-02        1.63410E-02        4.99736E-04
+ Debug druck set-a:   844      3.05819E-02        1.71110E-02        5.23287E-04
+ Debug druck set-a:   845      3.05810E-02        1.79180E-02        5.47951E-04
+ Debug druck set-a:   846      2.71010E-02        1.87620E-02        5.08468E-04
+ Debug druck set-a:   847      2.61157E-02        1.96470E-02        5.13095E-04
+ Debug druck set-a:   848      2.61170E-02        2.05720E-02        5.37279E-04
+ Debug druck set-a:   849      2.41810E-02        2.15420E-02        5.20907E-04
+ Debug druck set-a:   850      2.16554E-02        2.25570E-02        4.88480E-04
+ Debug druck set-a:   851      2.16546E-02        2.36210E-02        5.11504E-04
+ Debug druck set-a:   852      2.01225E-02        2.47330E-02        4.97691E-04
+ Debug druck set-a:   853      1.87876E-02        2.58990E-02        4.86579E-04
+ Debug druck set-a:   854      1.87006E-02        2.71200E-02        5.07159E-04
+ Debug druck set-a:   855      1.59420E-02        2.83970E-02        4.52706E-04
+ Debug druck set-a:   856      1.57739E-02        2.97360E-02        4.69052E-04
+ Debug druck set-a:   857      1.41025E-02        3.11380E-02        4.39125E-04
+ Debug druck set-a:   858      1.33461E-02        3.26050E-02        4.35149E-04
+ Debug druck set-a:   859      1.21319E-02        3.41420E-02        4.14207E-04
+ Debug druck set-a:   860      1.13862E-02        3.57500E-02        4.07058E-04
+ Debug druck set-a:   861      1.01011E-02        3.74360E-02        3.78144E-04
+ Debug druck set-a:   862      9.56990E-03        3.92000E-02        3.75140E-04
+ Debug druck set-a:   863      8.22957E-03        4.10470E-02        3.37799E-04
+ Debug druck set-a:   864      7.68147E-03        4.29820E-02        3.30165E-04
+ Debug druck set-a:   865      6.91150E-03        4.50070E-02        3.11066E-04
+ Debug druck set-a:   866      6.00303E-03        4.71300E-02        2.82923E-04
+ Debug druck set-a:   867      5.43976E-03        4.93500E-02        2.68452E-04
+ Debug druck set-a:   868      4.79752E-03        5.16700E-02        2.47888E-04
+ Debug druck set-a:   869      3.92488E-03        5.41100E-02        2.12375E-04
+ Debug druck set-a:   870      2.09227E-03        5.66600E-02        1.18548E-04
+ Debug druck set-a:   871      8.77201E-04        5.93400E-02        5.20531E-05
+ Debug druck set-a:   872      1.90446E-04        6.21200E-02        1.18305E-05
+
+
+
+          Low               High              Mid              Energy           Number             dn/de            E*dn/de          Cumulative
+         Energy            Energy            Energy             Width          Fraction                               Sum   
+         [MeV]             [MeV]             [MeV]              [MeV]
+
+       3.63078E-10       3.80189E-10       3.71634E-10       1.71110E-11       0.00000E+00       0.00000E+00       0.00000E+00       0.00000E+00
+       3.80189E-10       3.98107E-10       3.89148E-10       1.79180E-11       3.61296E-11       2.01639E+00       7.84674E-10       3.61296E-11
+       3.98107E-10       4.16869E-10       4.07488E-10       1.87620E-11       3.78341E-11       2.01652E+00       8.21709E-10       7.39637E-11
+       4.16869E-10       4.36516E-10       4.26693E-10       1.96470E-11       3.96155E-11       2.01636E+00       8.60367E-10       1.13579E-10
+       4.36516E-10       4.57088E-10       4.46802E-10       2.05720E-11       4.14845E-11       2.01655E+00       9.00999E-10       1.55064E-10
+       4.57088E-10       4.78630E-10       4.67859E-10       2.15420E-11       4.34374E-11       2.01640E+00       9.43393E-10       1.98501E-10
+       4.78630E-10       5.01187E-10       4.89909E-10       2.25570E-11       4.54849E-11       2.01644E+00       9.87873E-10       2.43986E-10
+       5.01187E-10       5.24808E-10       5.12998E-10       2.36210E-11       4.76303E-11       2.01644E+00       1.03443E-09       2.91616E-10
+       5.24808E-10       5.49541E-10       5.37175E-10       2.47330E-11       4.98738E-11       2.01649E+00       1.08321E-09       3.41490E-10
+       5.49541E-10       5.75440E-10       5.62490E-10       2.58990E-11       5.22257E-11       2.01651E+00       1.13427E-09       3.93716E-10
+       5.75440E-10       6.02560E-10       5.89000E-10       2.71200E-11       5.46861E-11       2.01645E+00       1.18769E-09       4.48402E-10
+       6.02560E-10       6.30957E-10       6.16759E-10       2.83970E-11       5.72621E-11       2.01648E+00       1.24368E-09       5.05664E-10
+       6.30957E-10       6.60693E-10       6.45825E-10       2.97360E-11       5.99605E-11       2.01643E+00       1.30226E-09       5.65624E-10
+       6.60693E-10       6.91831E-10       6.76262E-10       3.11380E-11       6.27884E-11       2.01646E+00       1.36365E-09       6.28413E-10
+       6.91831E-10       7.24436E-10       7.08133E-10       3.26050E-11       6.57459E-11       2.01643E+00       1.42790E-09       6.94159E-10
+       7.24436E-10       7.58578E-10       7.41507E-10       3.41420E-11       6.88468E-11       2.01648E+00       1.49524E-09       7.63006E-10
+       7.58578E-10       7.94328E-10       7.76453E-10       3.57500E-11       7.20912E-11       2.01654E+00       1.56575E-09       8.35097E-10
+       7.94328E-10       8.31764E-10       8.13046E-10       3.74360E-11       7.54896E-11       2.01650E+00       1.63950E-09       9.10586E-10
+       8.31764E-10       8.70964E-10       8.51364E-10       3.92000E-11       7.90455E-11       2.01647E+00       1.71675E-09       9.89632E-10
+       8.70964E-10       9.12011E-10       8.91488E-10       4.10470E-11       8.27695E-11       2.01646E+00       1.79765E-09       1.07240E-09
+       9.12011E-10       9.54993E-10       9.33502E-10       4.29820E-11       8.66719E-11       2.01647E+00       1.88238E-09       1.15907E-09
+       9.54993E-10       1.00000E-09       9.77497E-10       4.50070E-11       9.07562E-11       2.01649E+00       1.97111E-09       1.24983E-09
+       1.00000E-09       1.04713E-09       1.02357E-09       4.71299E-11       9.50331E-11       2.01641E+00       2.06392E-09       1.34486E-09
+       1.04713E-09       1.09648E-09       1.07180E-09       4.93500E-11       9.95095E-11       2.01641E+00       2.16119E-09       1.44437E-09
+       1.09648E-09       1.14815E-09       1.12231E-09       5.16700E-11       1.04203E-10       2.01670E+00       2.26337E-09       1.54858E-09
+       1.14815E-09       1.20226E-09       1.17521E-09       5.41101E-11       1.09113E-10       2.01651E+00       2.36981E-09       1.65769E-09
+       1.20226E-09       1.25892E-09       1.23059E-09       5.66599E-11       1.14255E-10       2.01650E+00       2.48148E-09       1.77194E-09
+       1.25892E-09       1.31826E-09       1.28859E-09       5.93400E-11       1.19641E-10       2.01619E+00       2.59805E-09       1.89158E-09
+       1.31826E-09       1.38038E-09       1.34932E-09       6.21200E-11       1.25279E-10       2.01673E+00       2.72122E-09       2.01686E-09
+       1.38038E-09       1.44544E-09       1.41291E-09       6.50600E-11       1.31184E-10       2.01635E+00       2.84892E-09       2.14805E-09
+       1.44544E-09       1.51356E-09       1.47950E-09       6.81200E-11       1.37365E-10       2.01651E+00       2.98343E-09       2.28541E-09
+       1.51356E-09       1.58489E-09       1.54922E-09       7.13300E-11       1.43839E-10       2.01653E+00       3.12407E-09       2.42925E-09
+       1.58489E-09       1.65959E-09       1.62224E-09       7.47001E-11       1.50619E-10       2.01631E+00       3.27094E-09       2.57987E-09
+       1.65959E-09       1.73780E-09       1.69869E-09       7.82099E-11       1.57717E-10       2.01658E+00       3.42556E-09       2.73759E-09
+       1.73780E-09       1.81970E-09       1.77875E-09       8.19000E-11       1.65150E-10       2.01649E+00       3.58683E-09       2.90274E-09
+       1.81970E-09       1.90546E-09       1.86258E-09       8.57600E-11       1.72934E-10       2.01649E+00       3.75587E-09       3.07567E-09
+       1.90546E-09       1.99526E-09       1.95036E-09       8.97999E-11       1.81082E-10       2.01651E+00       3.93291E-09       3.25675E-09
+       1.99526E-09       2.08930E-09       2.04228E-09       9.40401E-11       1.89618E-10       2.01636E+00       4.11796E-09       3.44637E-09
+       2.08930E-09       2.18776E-09       2.13853E-09       9.84601E-11       1.98554E-10       2.01659E+00       4.31254E-09       3.64492E-09
+       2.18776E-09       2.29087E-09       2.23931E-09       1.03110E-10       2.07912E-10       2.01641E+00       4.51538E-09       3.85284E-09
+       2.29087E-09       2.39883E-09       2.34485E-09       1.07960E-10       2.17709E-10       2.01657E+00       4.72855E-09       4.07055E-09
+       2.39883E-09       2.51189E-09       2.45536E-09       1.13060E-10       2.27970E-10       2.01637E+00       4.95090E-09       4.29852E-09
+       2.51189E-09       2.63027E-09       2.57108E-09       1.18380E-10       2.38715E-10       2.01651E+00       5.18461E-09       4.53723E-09
+       2.63027E-09       2.75423E-09       2.69225E-09       1.23960E-10       2.49964E-10       2.01649E+00       5.42889E-09       4.78720E-09
+       2.75423E-09       2.88403E-09       2.81913E-09       1.29800E-10       2.61745E-10       2.01652E+00       5.68483E-09       5.04894E-09
+       2.88403E-09       3.01995E-09       2.95199E-09       1.35920E-10       2.74078E-10       2.01647E+00       5.95260E-09       5.32302E-09
+       3.01995E-09       3.16228E-09       3.09111E-09       1.42330E-10       2.86996E-10       2.01641E+00       6.23297E-09       5.61001E-09
+       3.16228E-09       3.31131E-09       3.23679E-09       1.49030E-10       3.00520E-10       2.01651E+00       6.52702E-09       5.91053E-09
+       3.31131E-09       3.46737E-09       3.38934E-09       1.56060E-10       3.14688E-10       2.01645E+00       6.83444E-09       6.22522E-09
+       3.46737E-09       3.63078E-09       3.54907E-09       1.63410E-10       3.29517E-10       2.01651E+00       7.15673E-09       6.55474E-09
+       3.63078E-09       3.80189E-09       3.71633E-09       1.71110E-10       3.45046E-10       2.01652E+00       7.49404E-09       6.89978E-09
+       3.80189E-09       3.98107E-09       3.89148E-09       1.79180E-10       3.61296E-10       2.01638E+00       7.84672E-09       7.26108E-09
+       3.98107E-09       4.16869E-09       4.07488E-09       1.87620E-10       3.78341E-10       2.01653E+00       8.21710E-09       7.63942E-09
+       4.16869E-09       4.36516E-09       4.26693E-09       1.96470E-10       3.96155E-10       2.01637E+00       8.60368E-09       8.03558E-09
+       4.36516E-09       4.57088E-09       4.46802E-09       2.05720E-10       4.14845E-10       2.01655E+00       9.00999E-09       8.45042E-09
+       4.57088E-09       4.78630E-09       4.67859E-09       2.15420E-10       4.34374E-10       2.01641E+00       9.43394E-09       8.88480E-09
+       4.78630E-09       5.01187E-09       4.89908E-09       2.25570E-10       4.54849E-10       2.01644E+00       9.87872E-09       9.33964E-09
+       5.01187E-09       5.24807E-09       5.12997E-09       2.36200E-10       4.76303E-10       2.01652E+00       1.03447E-08       9.81595E-09
+       5.24807E-09       5.49541E-09       5.37174E-09       2.47340E-10       4.98738E-10       2.01641E+00       1.08316E-08       1.03147E-08
+       5.49541E-09       5.75440E-09       5.62490E-09       2.58990E-10       5.22257E-10       2.01651E+00       1.13427E-08       1.08369E-08
+       5.75440E-09       6.02560E-09       5.89000E-09       2.71200E-10       5.46861E-10       2.01645E+00       1.18769E-08       1.13838E-08
+       6.02560E-09       6.30957E-09       6.16758E-09       2.83970E-10       5.72621E-10       2.01648E+00       1.24368E-08       1.19564E-08
+       6.30957E-09       6.60693E-09       6.45825E-09       2.97360E-10       5.99605E-10       2.01643E+00       1.30226E-08       1.25560E-08
+       6.60693E-09       6.91831E-09       6.76262E-09       3.11380E-10       6.27884E-10       2.01646E+00       1.36365E-08       1.31839E-08
+       6.91831E-09       7.24436E-09       7.08134E-09       3.26050E-10       6.57459E-10       2.01644E+00       1.42791E-08       1.38414E-08
+       7.24436E-09       7.58578E-09       7.41507E-09       3.41420E-10       6.88468E-10       2.01648E+00       1.49524E-08       1.45298E-08
+       7.58578E-09       7.94328E-09       7.76453E-09       3.57500E-10       7.20912E-10       2.01654E+00       1.56575E-08       1.52508E-08
+       7.94328E-09       8.31764E-09       8.13046E-09       3.74360E-10       7.54896E-10       2.01650E+00       1.63951E-08       1.60056E-08
+       8.31764E-09       8.70964E-09       8.51364E-09       3.92000E-10       7.90455E-10       2.01647E+00       1.71675E-08       1.67961E-08
+       8.70964E-09       9.12011E-09       8.91488E-09       4.10470E-10       8.27695E-10       2.01645E+00       1.79764E-08       1.76238E-08
+       9.12011E-09       9.54993E-09       9.33502E-09       4.29819E-10       8.66718E-10       2.01647E+00       1.88238E-08       1.84905E-08
+       9.54993E-09       1.00000E-08       9.77496E-09       4.50070E-10       9.07563E-10       2.01649E+00       1.97111E-08       1.93981E-08
+       1.00000E-08       1.04713E-08       1.02357E-08       4.71300E-10       9.50331E-10       2.01640E+00       2.06392E-08       2.03484E-08
+       1.04713E-08       1.09648E-08       1.07181E-08       4.93499E-10       9.95095E-10       2.01641E+00       2.16119E-08       2.13435E-08
+       1.09648E-08       1.14815E-08       1.12232E-08       5.16701E-10       1.04203E-09       2.01670E+00       2.26337E-08       2.23855E-08
+       1.14815E-08       1.20226E-08       1.17520E-08       5.41099E-10       1.09113E-09       2.01651E+00       2.36981E-08       2.34767E-08
+       1.20226E-08       1.25892E-08       1.23059E-08       5.66601E-10       1.14255E-09       2.01649E+00       2.48148E-08       2.46192E-08
+       1.25892E-08       1.31826E-08       1.28859E-08       5.93400E-10       1.19641E-09       2.01620E+00       2.59805E-08       2.58156E-08
+       1.31826E-08       1.38038E-08       1.34932E-08       6.21200E-10       1.25279E-09       2.01673E+00       2.72122E-08       2.70684E-08
+       1.38038E-08       1.44544E-08       1.41291E-08       6.50601E-10       1.31184E-09       2.01635E+00       2.84892E-08       2.83803E-08
+       1.44544E-08       1.51356E-08       1.47950E-08       6.81200E-10       1.37365E-09       2.01651E+00       2.98343E-08       2.97539E-08
+       1.51356E-08       1.58489E-08       1.54922E-08       7.13299E-10       1.43839E-09       2.01654E+00       3.12407E-08       3.11923E-08
+       1.58489E-08       1.65959E-08       1.62224E-08       7.47001E-10       1.50619E-09       2.01631E+00       3.27094E-08       3.26985E-08
+       1.65959E-08       1.73780E-08       1.69870E-08       7.82100E-10       1.57717E-09       2.01658E+00       3.42555E-08       3.42757E-08
+       1.73780E-08       1.81970E-08       1.77875E-08       8.18999E-10       1.65150E-09       2.01649E+00       3.58683E-08       3.59272E-08
+       1.81970E-08       1.90546E-08       1.86258E-08       8.57599E-10       1.72934E-09       2.01649E+00       3.75588E-08       3.76565E-08
+       1.90546E-08       1.99526E-08       1.95036E-08       8.98002E-10       1.81082E-09       2.01650E+00       3.93290E-08       3.94673E-08
+       1.99526E-08       2.08930E-08       2.04228E-08       9.40399E-10       1.89618E-09       2.01636E+00       4.11797E-08       4.13635E-08
+       2.08930E-08       2.18776E-08       2.13853E-08       9.84600E-10       1.98554E-09       2.01659E+00       4.31254E-08       4.33490E-08
+       2.18776E-08       2.29087E-08       2.23932E-08       1.03110E-09       2.07912E-09       2.01641E+00       4.51538E-08       4.54282E-08
+       2.29087E-08       2.39883E-08       2.34485E-08       1.07960E-09       2.17709E-09       2.01657E+00       4.72855E-08       4.76052E-08
+       2.39883E-08       2.51189E-08       2.45536E-08       1.13060E-09       2.27970E-09       2.01636E+00       4.95090E-08       4.98850E-08
+       2.51189E-08       2.63027E-08       2.57108E-08       1.18380E-09       2.38715E-09       2.01651E+00       5.18462E-08       5.22721E-08
+       2.63027E-08       2.75423E-08       2.69225E-08       1.23960E-09       2.49964E-09       2.01649E+00       5.42889E-08       5.47717E-08
+       2.75423E-08       2.88403E-08       2.81913E-08       1.29800E-09       2.61744E-09       2.01652E+00       5.68484E-08       5.73892E-08
+       2.88403E-08       3.01995E-08       2.95199E-08       1.35920E-09       2.74078E-09       2.01647E+00       5.95259E-08       6.01300E-08
+       3.01995E-08       3.16228E-08       3.09112E-08       1.42330E-09       2.86996E-09       2.01641E+00       6.23297E-08       6.29999E-08
+       3.16228E-08       3.31131E-08       3.23680E-08       1.49030E-09       3.00520E-09       2.01651E+00       6.52703E-08       6.60051E-08
+       3.31131E-08       3.46737E-08       3.38934E-08       1.56060E-09       3.14688E-09       2.01645E+00       6.83445E-08       6.91520E-08
+       3.46737E-08       3.63078E-08       3.54907E-08       1.63410E-09       3.29517E-09       2.01650E+00       7.15671E-08       7.24472E-08
+       3.63078E-08       3.80189E-08       3.71633E-08       1.71110E-09       3.45046E-09       2.01652E+00       7.49405E-08       7.58976E-08
+       3.80189E-08       3.98107E-08       3.89148E-08       1.79180E-09       3.61296E-09       2.01639E+00       7.84674E-08       7.95106E-08
+       3.98107E-08       4.16869E-08       4.07488E-08       1.87620E-09       3.78341E-09       2.01652E+00       8.21710E-08       8.32940E-08
+       4.16869E-08       4.36516E-08       4.26692E-08       1.96470E-09       3.96155E-09       2.01637E+00       8.60368E-08       8.72556E-08
+       4.36516E-08       4.57088E-08       4.46802E-08       2.05720E-09       4.14845E-09       2.01655E+00       9.00998E-08       9.14040E-08
+       4.57088E-08       4.78630E-08       4.67859E-08       2.15420E-09       4.34374E-09       2.01641E+00       9.43395E-08       9.57477E-08
+       4.78630E-08       5.01187E-08       4.89908E-08       2.25570E-09       4.54849E-09       2.01644E+00       9.87872E-08       1.00296E-07
+       5.01187E-08       5.24807E-08       5.12997E-08       2.36200E-09       4.76303E-09       2.01652E+00       1.03447E-07       1.05059E-07
+       5.24807E-08       5.49541E-08       5.37174E-08       2.47340E-09       4.98738E-09       2.01641E+00       1.08316E-07       1.10047E-07
+       5.49541E-08       5.75440E-08       5.62490E-08       2.58990E-09       5.22257E-09       2.01651E+00       1.13427E-07       1.15269E-07
+       5.75440E-08       6.02560E-08       5.89000E-08       2.71200E-09       5.46861E-09       2.01645E+00       1.18769E-07       1.20738E-07
+       6.02560E-08       6.30957E-08       6.16758E-08       2.83970E-09       5.72621E-09       2.01648E+00       1.24368E-07       1.26464E-07
+       6.30957E-08       6.60693E-08       6.45825E-08       2.97359E-09       5.99605E-09       2.01643E+00       1.30226E-07       1.32460E-07
+       6.60693E-08       6.91831E-08       6.76262E-08       3.11380E-09       6.27884E-09       2.01646E+00       1.36365E-07       1.38739E-07
+       6.91831E-08       7.24436E-08       7.08133E-08       3.26050E-09       6.57459E-09       2.01643E+00       1.42790E-07       1.45314E-07
+       7.24436E-08       7.58578E-08       7.41507E-08       3.41421E-09       6.88468E-09       2.01648E+00       1.49523E-07       1.52198E-07
+       7.58578E-08       7.94328E-08       7.76453E-08       3.57500E-09       7.20912E-09       2.01654E+00       1.56575E-07       1.59407E-07
+       7.94328E-08       8.31764E-08       8.13046E-08       3.74360E-09       7.54896E-09       2.01650E+00       1.63951E-07       1.66956E-07
+       8.31764E-08       8.70964E-08       8.51364E-08       3.92000E-09       7.90456E-09       2.01647E+00       1.71675E-07       1.74861E-07
+       8.70964E-08       9.12011E-08       8.91487E-08       4.10470E-09       8.27695E-09       2.01646E+00       1.79765E-07       1.83138E-07
+       9.12011E-08       9.54993E-08       9.33502E-08       4.29820E-09       8.66719E-09       2.01647E+00       1.88238E-07       1.91805E-07
+       9.54993E-08       1.00000E-07       9.77496E-08       4.50070E-09       9.07563E-09       2.01649E+00       1.97111E-07       2.00881E-07
+       1.00000E-07       1.04713E-07       1.02357E-07       4.71300E-09       9.50332E-09       2.01641E+00       2.06392E-07       2.10384E-07
+       1.04713E-07       1.09648E-07       1.07180E-07       4.93500E-09       9.95095E-09       2.01641E+00       2.16119E-07       2.20335E-07
+       1.09648E-07       1.14815E-07       1.12231E-07       5.16700E-09       1.04203E-08       2.01670E+00       2.26337E-07       2.30755E-07
+       1.14815E-07       1.20226E-07       1.17520E-07       5.41101E-09       1.09113E-08       2.01651E+00       2.36981E-07       2.41666E-07
+       1.20226E-07       1.25892E-07       1.23059E-07       5.66600E-09       1.14255E-08       2.01650E+00       2.48148E-07       2.53092E-07
+       1.25892E-07       1.31826E-07       1.28859E-07       5.93400E-09       1.19641E-08       2.01620E+00       2.59805E-07       2.65056E-07
+       1.31826E-07       1.38038E-07       1.34932E-07       6.21200E-09       1.25279E-08       2.01673E+00       2.72122E-07       2.77584E-07
+       1.38038E-07       1.44544E-07       1.41291E-07       6.50601E-09       1.31184E-08       2.01635E+00       2.84892E-07       2.90702E-07
+       1.44544E-07       1.51356E-07       1.47950E-07       6.81199E-09       1.37365E-08       2.01651E+00       2.98343E-07       3.04439E-07
+       1.51356E-07       1.58489E-07       1.54923E-07       7.13301E-09       1.43839E-08       2.01653E+00       3.12406E-07       3.18823E-07
+       1.58489E-07       1.65959E-07       1.62224E-07       7.47000E-09       1.50619E-08       2.01632E+00       3.27095E-07       3.33885E-07
+       1.65959E-07       1.73780E-07       1.69869E-07       7.82099E-09       1.57717E-08       2.01658E+00       3.42555E-07       3.49656E-07
+       1.73780E-07       1.81970E-07       1.77875E-07       8.19001E-09       1.65150E-08       2.01649E+00       3.58683E-07       3.66171E-07
+       1.81970E-07       1.90546E-07       1.86258E-07       8.57601E-09       1.72934E-08       2.01649E+00       3.75587E-07       3.83465E-07
+       1.90546E-07       1.99526E-07       1.95036E-07       8.97999E-09       1.81082E-08       2.01651E+00       3.93291E-07       4.01573E-07
+       1.99526E-07       2.08930E-07       2.04228E-07       9.40400E-09       1.89618E-08       2.01636E+00       4.11797E-07       4.20535E-07
+       2.08930E-07       2.18776E-07       2.13853E-07       9.84600E-09       1.98554E-08       2.01659E+00       4.31254E-07       4.40390E-07
+       2.18776E-07       2.29087E-07       2.23931E-07       1.03110E-08       2.07912E-08       2.01641E+00       4.51539E-07       4.61181E-07
+       2.29087E-07       2.39883E-07       2.34485E-07       1.07960E-08       2.17709E-08       2.01657E+00       4.72854E-07       4.82952E-07
+       2.39883E-07       2.51189E-07       2.45536E-07       1.13060E-08       2.27970E-08       2.01637E+00       4.95091E-07       5.05749E-07
+       2.51189E-07       2.63027E-07       2.57108E-07       1.18380E-08       2.38715E-08       2.01651E+00       5.18461E-07       5.29621E-07
+       2.63027E-07       2.75423E-07       2.69225E-07       1.23960E-08       2.49964E-08       2.01649E+00       5.42890E-07       5.54617E-07
+       2.75423E-07       2.88403E-07       2.81913E-07       1.29800E-08       2.61745E-08       2.01652E+00       5.68483E-07       5.80792E-07
+       2.88403E-07       3.01995E-07       2.95199E-07       1.35920E-08       2.74078E-08       2.01647E+00       5.95259E-07       6.08199E-07
+       3.01995E-07       3.16228E-07       3.09111E-07       1.42330E-08       2.86996E-08       2.01642E+00       6.23297E-07       6.36899E-07
+       3.16228E-07       3.31131E-07       3.23680E-07       1.49030E-08       3.00520E-08       2.01651E+00       6.52702E-07       6.66951E-07
+       3.31131E-07       3.46737E-07       3.38934E-07       1.56060E-08       3.14688E-08       2.01645E+00       6.83445E-07       6.98420E-07
+       3.46737E-07       3.63078E-07       3.54908E-07       1.63410E-08       3.29517E-08       2.01650E+00       7.15672E-07       7.31372E-07
+       3.63078E-07       3.80189E-07       3.71633E-07       1.71110E-08       3.45046E-08       2.01651E+00       7.49404E-07       7.65876E-07
+       3.80189E-07       3.98107E-07       3.89148E-07       1.79180E-08       3.61310E-08       2.01647E+00       7.84703E-07       8.02007E-07
+       3.98107E-07       4.16869E-07       4.07488E-07       1.87620E-08       3.78337E-08       2.01651E+00       8.21702E-07       8.39841E-07
+       4.16869E-07       4.36516E-07       4.26693E-07       1.96470E-08       3.96166E-08       2.01642E+00       8.60392E-07       8.79457E-07
+       4.36516E-07       4.57088E-07       4.46802E-07       2.05720E-08       4.14838E-08       2.01652E+00       9.00983E-07       9.20941E-07
+       4.57088E-07       4.78630E-07       4.67859E-07       2.15420E-08       4.34388E-08       2.01647E+00       9.43424E-07       9.64380E-07
+       4.78630E-07       5.01187E-07       4.89909E-07       2.25570E-08       4.54859E-08       2.01649E+00       9.87894E-07       1.00987E-06
+       5.01187E-07       5.24807E-07       5.12997E-07       2.36200E-08       4.76300E-08       2.01651E+00       1.03447E-06       1.05750E-06
+       5.24807E-07       5.50000E-07       5.37403E-07       2.51930E-08       5.08002E-08       2.01644E+00       1.08364E-06       1.10830E-06
+       5.50000E-07       5.75000E-07       5.62500E-07       2.50000E-08       5.04120E-08       2.01648E+00       1.13427E-06       1.15871E-06
+       5.75000E-07       6.00000E-07       5.87500E-07       2.50000E-08       5.04120E-08       2.01648E+00       1.18468E-06       1.20912E-06
+       6.00000E-07       6.25000E-07       6.12500E-07       2.50000E-08       5.04120E-08       2.01648E+00       1.23510E-06       1.25953E-06
+       6.25000E-07       6.50000E-07       6.37500E-07       2.50000E-08       5.04120E-08       2.01648E+00       1.28551E-06       1.30994E-06
+       6.50000E-07       6.75000E-07       6.62500E-07       2.50000E-08       5.04120E-08       2.01648E+00       1.33592E-06       1.36036E-06
+       6.75000E-07       7.00000E-07       6.87500E-07       2.50000E-08       5.04120E-08       2.01648E+00       1.38633E-06       1.41077E-06
+       7.00000E-07       7.25000E-07       7.12500E-07       2.50000E-08       5.04120E-08       2.01648E+00       1.43674E-06       1.46118E-06
+       7.25000E-07       7.50000E-07       7.37500E-07       2.50000E-08       5.04120E-08       2.01648E+00       1.48716E-06       1.51159E-06
+       7.50000E-07       7.75000E-07       7.62500E-07       2.50000E-08       5.04120E-08       2.01648E+00       1.53757E-06       1.56200E-06
+       7.75000E-07       8.00000E-07       7.87500E-07       2.50000E-08       5.04120E-08       2.01648E+00       1.58798E-06       1.61242E-06
+       8.00000E-07       8.25000E-07       8.12500E-07       2.50000E-08       5.04120E-08       2.01648E+00       1.63839E-06       1.66283E-06
+       8.25000E-07       8.50000E-07       8.37500E-07       2.50000E-08       5.04120E-08       2.01648E+00       1.68880E-06       1.71324E-06
+       8.50000E-07       8.75000E-07       8.62500E-07       2.50000E-08       5.04120E-08       2.01648E+00       1.73922E-06       1.76365E-06
+       8.75000E-07       9.00000E-07       8.87500E-07       2.50000E-08       5.04120E-08       2.01648E+00       1.78963E-06       1.81406E-06
+       9.00000E-07       9.25000E-07       9.12500E-07       2.50000E-08       5.04120E-08       2.01648E+00       1.84004E-06       1.86448E-06
+       9.25000E-07       9.50000E-07       9.37500E-07       2.50000E-08       5.04120E-08       2.01648E+00       1.89045E-06       1.91489E-06
+       9.50000E-07       9.75000E-07       9.62500E-07       2.50000E-08       5.04120E-08       2.01648E+00       1.94086E-06       1.96530E-06
+       9.75000E-07       1.00000E-06       9.87500E-07       2.50000E-08       5.04120E-08       2.01648E+00       1.99128E-06       2.01571E-06
+       1.00000E-06       1.02500E-06       1.01250E-06       2.50000E-08       5.04120E-08       2.01648E+00       2.04169E-06       2.06613E-06
+       1.02500E-06       1.05000E-06       1.03750E-06       2.50000E-08       5.04120E-08       2.01648E+00       2.09210E-06       2.11654E-06
+       1.05000E-06       1.07500E-06       1.06250E-06       2.50001E-08       5.04120E-08       2.01647E+00       2.14250E-06       2.16695E-06
+       1.07500E-06       1.10000E-06       1.08750E-06       2.50000E-08       5.04120E-08       2.01648E+00       2.19293E-06       2.21736E-06
+       1.10000E-06       1.12500E-06       1.11250E-06       2.50000E-08       5.04120E-08       2.01648E+00       2.24334E-06       2.26777E-06
+       1.12500E-06       1.15000E-06       1.13750E-06       2.50000E-08       5.04120E-08       2.01648E+00       2.29375E-06       2.31819E-06
+       1.15000E-06       1.17500E-06       1.16250E-06       2.50000E-08       5.04120E-08       2.01648E+00       2.34416E-06       2.36860E-06
+       1.17500E-06       1.20000E-06       1.18750E-06       2.50001E-08       5.04120E-08       2.01647E+00       2.39456E-06       2.41901E-06
+       1.20000E-06       1.22500E-06       1.21250E-06       2.50000E-08       5.04120E-08       2.01648E+00       2.44499E-06       2.46942E-06
+       1.22500E-06       1.25000E-06       1.23750E-06       2.50000E-08       5.04120E-08       2.01648E+00       2.49540E-06       2.51983E-06
+       1.25000E-06       1.27500E-06       1.26250E-06       2.50000E-08       5.04120E-08       2.01648E+00       2.54581E-06       2.57025E-06
+       1.27500E-06       1.30000E-06       1.28750E-06       2.50000E-08       5.04120E-08       2.01648E+00       2.59622E-06       2.62066E-06
+       1.30000E-06       1.32500E-06       1.31250E-06       2.50001E-08       5.04120E-08       2.01647E+00       2.64662E-06       2.67107E-06
+       1.32500E-06       1.35000E-06       1.33750E-06       2.50000E-08       5.04120E-08       2.01648E+00       2.69705E-06       2.72148E-06
+       1.35000E-06       1.37500E-06       1.36250E-06       2.50000E-08       5.04120E-08       2.01648E+00       2.74746E-06       2.77190E-06
+       1.37500E-06       1.40000E-06       1.38750E-06       2.50000E-08       5.04120E-08       2.01648E+00       2.79787E-06       2.82231E-06
+       1.40000E-06       1.42500E-06       1.41250E-06       2.50000E-08       5.04120E-08       2.01648E+00       2.84828E-06       2.87272E-06
+       1.42500E-06       1.45000E-06       1.43750E-06       2.50001E-08       5.04120E-08       2.01647E+00       2.89868E-06       2.92313E-06
+       1.45000E-06       1.47500E-06       1.46250E-06       2.50000E-08       5.04120E-08       2.01648E+00       2.94911E-06       2.97354E-06
+       1.47500E-06       1.50000E-06       1.48750E-06       2.50000E-08       5.04120E-08       2.01648E+00       2.99952E-06       3.02396E-06
+       1.50000E-06       1.52500E-06       1.51250E-06       2.50000E-08       5.04120E-08       2.01648E+00       3.04993E-06       3.07437E-06
+       1.52500E-06       1.55000E-06       1.53750E-06       2.50000E-08       5.04120E-08       2.01648E+00       3.10034E-06       3.12478E-06
+       1.55000E-06       1.57500E-06       1.56250E-06       2.50001E-08       5.04120E-08       2.01647E+00       3.15074E-06       3.17519E-06
+       1.57500E-06       1.60000E-06       1.58750E-06       2.50000E-08       5.04120E-08       2.01648E+00       3.20117E-06       3.22560E-06
+       1.60000E-06       1.62500E-06       1.61250E-06       2.50000E-08       5.04120E-08       2.01648E+00       3.25158E-06       3.27602E-06
+       1.62500E-06       1.65000E-06       1.63750E-06       2.50000E-08       5.04120E-08       2.01648E+00       3.30199E-06       3.32643E-06
+       1.65000E-06       1.67500E-06       1.66250E-06       2.50000E-08       5.04120E-08       2.01648E+00       3.35240E-06       3.37684E-06
+       1.67500E-06       1.70000E-06       1.68750E-06       2.50001E-08       5.04120E-08       2.01647E+00       3.40280E-06       3.42725E-06
+       1.70000E-06       1.72500E-06       1.71250E-06       2.50000E-08       5.04120E-08       2.01648E+00       3.45323E-06       3.47767E-06
+       1.72500E-06       1.75000E-06       1.73750E-06       2.50000E-08       5.04120E-08       2.01648E+00       3.50364E-06       3.52808E-06
+       1.75000E-06       1.77500E-06       1.76250E-06       2.50000E-08       5.04120E-08       2.01648E+00       3.55405E-06       3.57849E-06
+       1.77500E-06       1.80000E-06       1.78750E-06       2.50000E-08       5.04120E-08       2.01648E+00       3.60446E-06       3.62890E-06
+       1.80000E-06       1.82500E-06       1.81250E-06       2.50001E-08       5.04120E-08       2.01647E+00       3.65486E-06       3.67931E-06
+       1.82500E-06       1.85000E-06       1.83750E-06       2.50000E-08       5.04120E-08       2.01648E+00       3.70529E-06       3.72973E-06
+       1.85000E-06       1.87500E-06       1.86250E-06       2.50000E-08       5.04120E-08       2.01648E+00       3.75570E-06       3.78014E-06
+       1.87500E-06       1.90000E-06       1.88750E-06       2.50000E-08       5.04120E-08       2.01648E+00       3.80611E-06       3.83055E-06
+       1.90000E-06       1.92500E-06       1.91250E-06       2.50000E-08       5.04120E-08       2.01648E+00       3.85653E-06       3.88096E-06
+       1.92500E-06       1.95000E-06       1.93750E-06       2.50001E-08       5.04120E-08       2.01647E+00       3.90692E-06       3.93137E-06
+       1.95000E-06       1.97500E-06       1.96250E-06       2.50000E-08       5.04120E-08       2.01648E+00       3.95735E-06       3.98179E-06
+       1.97500E-06       2.00000E-06       1.98750E-06       2.50000E-08       5.04120E-08       2.01648E+00       4.00776E-06       4.03220E-06
+       2.00000E-06       2.02500E-06       2.01250E-06       2.50001E-08       5.04120E-08       2.01647E+00       4.05815E-06       4.08261E-06
+       2.02500E-06       2.05000E-06       2.03750E-06       2.49999E-08       5.04120E-08       2.01649E+00       4.10861E-06       4.13302E-06
+       2.05000E-06       2.07500E-06       2.06250E-06       2.50001E-08       5.04120E-08       2.01647E+00       4.15898E-06       4.18343E-06
+       2.07500E-06       2.10000E-06       2.08750E-06       2.49999E-08       5.04120E-08       2.01649E+00       4.20943E-06       4.23385E-06
+       2.10000E-06       2.12500E-06       2.11250E-06       2.50001E-08       5.04120E-08       2.01647E+00       4.25980E-06       4.28426E-06
+       2.12500E-06       2.15000E-06       2.13750E-06       2.50001E-08       5.04120E-08       2.01647E+00       4.31021E-06       4.33467E-06
+       2.15000E-06       2.17500E-06       2.16250E-06       2.49999E-08       5.04120E-08       2.01649E+00       4.36067E-06       4.38508E-06
+       2.17500E-06       2.20000E-06       2.18750E-06       2.50001E-08       5.04120E-08       2.01647E+00       4.41104E-06       4.43549E-06
+       2.20000E-06       2.22500E-06       2.21250E-06       2.49999E-08       5.04120E-08       2.01649E+00       4.46149E-06       4.48591E-06
+       2.22500E-06       2.25000E-06       2.23750E-06       2.50001E-08       5.04120E-08       2.01647E+00       4.51186E-06       4.53632E-06
+       2.25000E-06       2.27500E-06       2.26250E-06       2.50001E-08       5.04120E-08       2.01647E+00       4.56227E-06       4.58673E-06
+       2.27500E-06       2.30000E-06       2.28750E-06       2.49999E-08       5.04120E-08       2.01649E+00       4.61273E-06       4.63714E-06
+       2.30000E-06       2.32500E-06       2.31250E-06       2.50001E-08       5.04120E-08       2.01647E+00       4.66310E-06       4.68755E-06
+       2.32500E-06       2.35000E-06       2.33750E-06       2.49999E-08       5.04120E-08       2.01649E+00       4.71355E-06       4.73797E-06
+       2.35000E-06       2.37500E-06       2.36250E-06       2.50001E-08       5.04120E-08       2.01647E+00       4.76392E-06       4.78838E-06
+       2.37500E-06       2.40000E-06       2.38750E-06       2.50001E-08       5.04120E-08       2.01647E+00       4.81433E-06       4.83879E-06
+       2.40000E-06       2.42500E-06       2.41250E-06       2.49999E-08       5.04120E-08       2.01649E+00       4.86479E-06       4.88920E-06
+       2.42500E-06       2.45000E-06       2.43750E-06       2.50001E-08       5.04120E-08       2.01647E+00       4.91516E-06       4.93961E-06
+       2.45000E-06       2.47500E-06       2.46250E-06       2.49999E-08       5.04120E-08       2.01649E+00       4.96562E-06       4.99002E-06
+       2.47500E-06       2.50000E-06       2.48750E-06       2.50001E-08       5.04120E-08       2.01647E+00       5.01598E-06       5.04044E-06
+       2.50000E-06       2.52500E-06       2.51250E-06       2.50001E-08       5.04120E-08       2.01647E+00       5.06639E-06       5.09085E-06
+       2.52500E-06       2.55000E-06       2.53750E-06       2.49999E-08       5.04120E-08       2.01649E+00       5.11685E-06       5.14126E-06
+       2.55000E-06       2.57500E-06       2.56250E-06       2.50001E-08       5.04120E-08       2.01647E+00       5.16722E-06       5.19167E-06
+       2.57500E-06       2.60000E-06       2.58750E-06       2.49999E-08       5.04120E-08       2.01649E+00       5.21768E-06       5.24208E-06
+       2.60000E-06       2.62500E-06       2.61250E-06       2.50001E-08       5.04120E-08       2.01647E+00       5.26804E-06       5.29250E-06
+       2.62500E-06       2.65000E-06       2.63750E-06       2.50001E-08       5.04120E-08       2.01647E+00       5.31845E-06       5.34291E-06
+       2.65000E-06       2.67500E-06       2.66250E-06       2.49999E-08       5.04120E-08       2.01649E+00       5.36891E-06       5.39332E-06
+       2.67500E-06       2.70000E-06       2.68750E-06       2.50001E-08       5.04120E-08       2.01647E+00       5.41927E-06       5.44373E-06
+       2.70000E-06       2.72500E-06       2.71250E-06       2.49999E-08       5.04120E-08       2.01649E+00       5.46974E-06       5.49414E-06
+       2.72500E-06       2.75000E-06       2.73750E-06       2.50001E-08       5.04120E-08       2.01647E+00       5.52010E-06       5.54456E-06
+       2.75000E-06       2.77500E-06       2.76250E-06       2.50001E-08       5.04120E-08       2.01647E+00       5.57051E-06       5.59497E-06
+       2.77500E-06       2.80000E-06       2.78750E-06       2.49999E-08       5.04120E-08       2.01649E+00       5.62098E-06       5.64538E-06
+       2.80000E-06       2.82500E-06       2.81250E-06       2.50001E-08       5.04120E-08       2.01647E+00       5.67133E-06       5.69579E-06
+       2.82500E-06       2.85000E-06       2.83750E-06       2.49999E-08       5.04120E-08       2.01649E+00       5.72180E-06       5.74620E-06
+       2.85000E-06       2.87500E-06       2.86250E-06       2.50001E-08       5.04120E-08       2.01647E+00       5.77216E-06       5.79662E-06
+       2.87500E-06       2.90000E-06       2.88750E-06       2.50001E-08       5.04120E-08       2.01647E+00       5.82257E-06       5.84703E-06
+       2.90000E-06       2.92500E-06       2.91250E-06       2.49999E-08       5.04120E-08       2.01649E+00       5.87304E-06       5.89744E-06
+       2.92500E-06       2.95000E-06       2.93750E-06       2.50001E-08       5.04120E-08       2.01647E+00       5.92339E-06       5.94785E-06
+       2.95000E-06       2.97500E-06       2.96250E-06       2.49999E-08       5.04120E-08       2.01649E+00       5.97386E-06       5.99826E-06
+       2.97500E-06       3.00000E-06       2.98750E-06       2.50001E-08       5.04120E-08       2.01647E+00       6.02422E-06       6.04868E-06
+       3.00000E-06       3.02500E-06       3.01250E-06       2.50001E-08       5.04120E-08       2.01647E+00       6.07463E-06       6.09909E-06
+       3.02500E-06       3.05000E-06       3.03750E-06       2.49999E-08       5.04120E-08       2.01649E+00       6.12510E-06       6.14950E-06
+       3.05000E-06       3.07500E-06       3.06250E-06       2.50001E-08       5.04120E-08       2.01647E+00       6.17545E-06       6.19991E-06
+       3.07500E-06       3.10000E-06       3.08750E-06       2.49999E-08       5.04120E-08       2.01649E+00       6.22592E-06       6.25032E-06
+       3.10000E-06       3.12500E-06       3.11250E-06       2.50001E-08       5.04120E-08       2.01647E+00       6.27628E-06       6.30074E-06
+       3.12500E-06       3.15000E-06       3.13750E-06       2.50001E-08       5.04120E-08       2.01647E+00       6.32669E-06       6.35115E-06
+       3.15000E-06       3.17500E-06       3.16250E-06       2.49999E-08       5.04120E-08       2.01649E+00       6.37716E-06       6.40156E-06
+       3.17500E-06       3.20000E-06       3.18750E-06       2.50001E-08       5.04120E-08       2.01647E+00       6.42751E-06       6.45197E-06
+       3.20000E-06       3.22500E-06       3.21250E-06       2.49999E-08       5.04120E-08       2.01649E+00       6.47799E-06       6.50238E-06
+       3.22500E-06       3.25000E-06       3.23750E-06       2.50001E-08       5.04120E-08       2.01647E+00       6.52834E-06       6.55279E-06
+       3.25000E-06       3.27500E-06       3.26250E-06       2.50001E-08       5.04120E-08       2.01647E+00       6.57875E-06       6.60321E-06
+       3.27500E-06       3.30000E-06       3.28750E-06       2.49999E-08       5.04120E-08       2.01649E+00       6.62922E-06       6.65362E-06
+       3.30000E-06       3.32500E-06       3.31250E-06       2.50001E-08       5.04120E-08       2.01647E+00       6.67957E-06       6.70403E-06
+       3.32500E-06       3.35000E-06       3.33750E-06       2.49999E-08       5.04120E-08       2.01649E+00       6.73005E-06       6.75444E-06
+       3.35000E-06       3.37500E-06       3.36250E-06       2.50001E-08       5.04120E-08       2.01647E+00       6.78039E-06       6.80485E-06
+       3.37500E-06       3.40000E-06       3.38750E-06       2.50001E-08       5.04120E-08       2.01647E+00       6.83081E-06       6.85527E-06
+       3.40000E-06       3.42500E-06       3.41250E-06       2.49999E-08       5.04120E-08       2.01649E+00       6.88128E-06       6.90568E-06
+       3.42500E-06       3.45000E-06       3.43750E-06       2.50001E-08       5.04120E-08       2.01647E+00       6.93163E-06       6.95609E-06
+       3.45000E-06       3.47500E-06       3.46250E-06       2.49999E-08       5.04120E-08       2.01649E+00       6.98211E-06       7.00650E-06
+       3.47500E-06       3.50000E-06       3.48750E-06       2.50001E-08       5.04120E-08       2.01647E+00       7.03245E-06       7.05691E-06
+       3.50000E-06       3.52500E-06       3.51250E-06       2.50001E-08       5.04120E-08       2.01647E+00       7.08287E-06       7.10733E-06
+       3.52500E-06       3.55000E-06       3.53750E-06       2.49999E-08       5.04120E-08       2.01649E+00       7.13335E-06       7.15774E-06
+       3.55000E-06       3.57500E-06       3.56250E-06       2.50001E-08       5.04120E-08       2.01647E+00       7.18369E-06       7.20815E-06
+       3.57500E-06       3.60000E-06       3.58750E-06       2.49999E-08       5.04120E-08       2.01649E+00       7.23417E-06       7.25856E-06
+       3.60000E-06       3.62500E-06       3.61250E-06       2.50001E-08       5.04120E-08       2.01647E+00       7.28451E-06       7.30897E-06
+       3.62500E-06       3.65000E-06       3.63750E-06       2.50001E-08       5.04120E-08       2.01647E+00       7.33493E-06       7.35939E-06
+       3.65000E-06       3.67500E-06       3.66250E-06       2.49999E-08       5.04120E-08       2.01649E+00       7.38541E-06       7.40980E-06
+       3.67500E-06       3.70000E-06       3.68750E-06       2.50001E-08       5.04120E-08       2.01647E+00       7.43575E-06       7.46021E-06
+       3.70000E-06       3.72500E-06       3.71250E-06       2.49999E-08       5.04120E-08       2.01649E+00       7.48623E-06       7.51062E-06
+       3.72500E-06       3.75000E-06       3.73750E-06       2.50001E-08       5.04120E-08       2.01647E+00       7.53657E-06       7.56103E-06
+       3.75000E-06       3.77500E-06       3.76250E-06       2.50001E-08       5.04120E-08       2.01647E+00       7.58698E-06       7.61145E-06
+       3.77500E-06       3.80000E-06       3.78750E-06       2.49999E-08       5.04120E-08       2.01649E+00       7.63747E-06       7.66186E-06
+       3.80000E-06       3.82500E-06       3.81250E-06       2.50001E-08       5.04120E-08       2.01647E+00       7.68781E-06       7.71227E-06
+       3.82500E-06       3.85000E-06       3.83750E-06       2.49999E-08       5.04120E-08       2.01649E+00       7.73829E-06       7.76268E-06
+       3.85000E-06       3.87500E-06       3.86250E-06       2.50001E-08       5.04120E-08       2.01647E+00       7.78863E-06       7.81309E-06
+       3.87500E-06       3.90000E-06       3.88750E-06       2.50001E-08       5.04120E-08       2.01647E+00       7.83904E-06       7.86351E-06
+       3.90000E-06       3.92500E-06       3.91250E-06       2.49999E-08       5.04120E-08       2.01649E+00       7.88953E-06       7.91392E-06
+       3.92500E-06       3.95000E-06       3.93750E-06       2.50001E-08       5.04120E-08       2.01647E+00       7.93987E-06       7.96433E-06
+       3.95000E-06       3.97500E-06       3.96250E-06       2.49999E-08       5.04120E-08       2.01649E+00       7.99036E-06       8.01474E-06
+       3.97500E-06       4.00000E-06       3.98750E-06       2.50001E-08       5.04120E-08       2.01647E+00       8.04069E-06       8.06516E-06
+       4.00000E-06       4.02500E-06       4.01250E-06       2.50001E-08       5.04120E-08       2.01647E+00       8.09110E-06       8.11557E-06
+       4.02500E-06       4.05000E-06       4.03750E-06       2.50001E-08       5.04120E-08       2.01647E+00       8.14152E-06       8.16598E-06
+       4.05000E-06       4.07500E-06       4.06250E-06       2.49996E-08       5.04120E-08       2.01651E+00       8.19208E-06       8.21639E-06
+       4.07500E-06       4.10000E-06       4.08750E-06       2.50001E-08       5.04120E-08       2.01647E+00       8.24234E-06       8.26681E-06
+       4.10000E-06       4.12500E-06       4.11250E-06       2.50001E-08       5.04120E-08       2.01647E+00       8.29275E-06       8.31722E-06
+       4.12500E-06       4.15000E-06       4.13750E-06       2.50001E-08       5.04120E-08       2.01647E+00       8.34316E-06       8.36763E-06
+       4.15000E-06       4.17500E-06       4.16250E-06       2.50001E-08       5.04120E-08       2.01647E+00       8.39357E-06       8.41804E-06
+       4.17500E-06       4.20000E-06       4.18750E-06       2.49996E-08       5.04120E-08       2.01651E+00       8.44415E-06       8.46846E-06
+       4.20000E-06       4.22500E-06       4.21250E-06       2.50001E-08       5.04120E-08       2.01647E+00       8.49440E-06       8.51887E-06
+       4.22500E-06       4.25000E-06       4.23750E-06       2.50001E-08       5.04120E-08       2.01647E+00       8.54481E-06       8.56928E-06
+       4.25000E-06       4.27500E-06       4.26250E-06       2.50001E-08       5.04120E-08       2.01647E+00       8.59522E-06       8.61969E-06
+       4.27500E-06       4.30000E-06       4.28750E-06       2.50001E-08       5.04120E-08       2.01647E+00       8.64563E-06       8.67010E-06
+       4.30000E-06       4.32500E-06       4.31250E-06       2.49996E-08       5.04120E-08       2.01651E+00       8.69621E-06       8.72052E-06
+       4.32500E-06       4.35000E-06       4.33750E-06       2.50001E-08       5.04120E-08       2.01647E+00       8.74646E-06       8.77093E-06
+       4.35000E-06       4.37500E-06       4.36250E-06       2.50001E-08       5.04120E-08       2.01647E+00       8.79687E-06       8.82134E-06
+       4.37500E-06       4.40000E-06       4.38750E-06       2.50001E-08       5.04120E-08       2.01647E+00       8.84728E-06       8.87175E-06
+       4.40000E-06       4.42500E-06       4.41250E-06       2.50001E-08       5.04120E-08       2.01647E+00       8.89769E-06       8.92217E-06
+       4.42500E-06       4.45000E-06       4.43750E-06       2.49996E-08       5.04120E-08       2.01651E+00       8.94828E-06       8.97258E-06
+       4.45000E-06       4.47500E-06       4.46250E-06       2.50001E-08       5.04120E-08       2.01647E+00       8.99852E-06       9.02299E-06
+       4.47500E-06       4.50000E-06       4.48750E-06       2.50001E-08       5.04120E-08       2.01647E+00       9.04893E-06       9.07340E-06
+       4.50000E-06       4.52500E-06       4.51250E-06       2.50001E-08       5.04120E-08       2.01647E+00       9.09934E-06       9.12382E-06
+       4.52500E-06       4.55000E-06       4.53750E-06       2.50001E-08       5.04120E-08       2.01647E+00       9.14975E-06       9.17423E-06
+       4.55000E-06       4.57500E-06       4.56250E-06       2.49996E-08       5.04120E-08       2.01651E+00       9.20034E-06       9.22464E-06
+       4.57500E-06       4.60000E-06       4.58750E-06       2.50001E-08       5.04120E-08       2.01647E+00       9.25058E-06       9.27505E-06
+       4.60000E-06       4.62500E-06       4.61250E-06       2.50001E-08       5.04120E-08       2.01647E+00       9.30099E-06       9.32547E-06
+       4.62500E-06       4.65000E-06       4.63750E-06       2.50001E-08       5.04120E-08       2.01647E+00       9.35140E-06       9.37588E-06
+       4.65000E-06       4.67500E-06       4.66250E-06       2.50001E-08       5.04120E-08       2.01647E+00       9.40181E-06       9.42629E-06
+       4.67500E-06       4.70000E-06       4.68750E-06       2.49996E-08       5.04120E-08       2.01651E+00       9.45240E-06       9.47670E-06
+       4.70000E-06       4.72500E-06       4.71250E-06       2.50001E-08       5.04120E-08       2.01647E+00       9.50263E-06       9.52712E-06
+       4.72500E-06       4.75000E-06       4.73750E-06       2.50001E-08       5.04120E-08       2.01647E+00       9.55305E-06       9.57753E-06
+       4.75000E-06       4.77500E-06       4.76250E-06       2.50001E-08       5.04120E-08       2.01647E+00       9.60346E-06       9.62794E-06
+       4.77500E-06       4.80000E-06       4.78750E-06       2.50001E-08       5.04120E-08       2.01647E+00       9.65387E-06       9.67835E-06
+       4.80000E-06       4.82500E-06       4.81250E-06       2.49996E-08       5.04120E-08       2.01651E+00       9.70447E-06       9.72876E-06
+       4.82500E-06       4.85000E-06       4.83750E-06       2.50001E-08       5.04120E-08       2.01647E+00       9.75469E-06       9.77918E-06
+       4.85000E-06       4.87500E-06       4.86250E-06       2.50001E-08       5.04120E-08       2.01647E+00       9.80511E-06       9.82959E-06
+       4.87500E-06       4.90000E-06       4.88750E-06       2.50001E-08       5.04120E-08       2.01647E+00       9.85552E-06       9.88000E-06
+       4.90000E-06       4.92500E-06       4.91250E-06       2.50001E-08       5.04120E-08       2.01647E+00       9.90593E-06       9.93041E-06
+       4.92500E-06       4.95000E-06       4.93750E-06       2.49996E-08       5.04120E-08       2.01651E+00       9.95653E-06       9.98083E-06
+       4.95000E-06       4.97500E-06       4.96250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.00068E-05       1.00312E-05
+       4.97500E-06       5.00000E-06       4.98750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.00572E-05       1.00817E-05
+       5.00000E-06       5.02500E-06       5.01250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.01076E-05       1.01321E-05
+       5.02500E-06       5.05000E-06       5.03750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.01580E-05       1.01825E-05
+       5.05000E-06       5.07500E-06       5.06250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.02086E-05       1.02329E-05
+       5.07500E-06       5.10000E-06       5.08750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.02588E-05       1.02833E-05
+       5.10000E-06       5.12500E-06       5.11250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.03092E-05       1.03337E-05
+       5.12500E-06       5.15000E-06       5.13750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.03596E-05       1.03841E-05
+       5.15000E-06       5.17500E-06       5.16250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.04100E-05       1.04345E-05
+       5.17500E-06       5.20000E-06       5.18750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.04607E-05       1.04850E-05
+       5.20000E-06       5.22500E-06       5.21250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.05109E-05       1.05354E-05
+       5.22500E-06       5.25000E-06       5.23750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.05613E-05       1.05858E-05
+       5.25000E-06       5.27500E-06       5.26250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.06117E-05       1.06362E-05
+       5.27500E-06       5.30000E-06       5.28750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.06621E-05       1.06866E-05
+       5.30000E-06       5.32500E-06       5.31250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.07127E-05       1.07370E-05
+       5.32500E-06       5.35000E-06       5.33750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.07629E-05       1.07874E-05
+       5.35000E-06       5.37500E-06       5.36250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.08133E-05       1.08378E-05
+       5.37500E-06       5.40000E-06       5.38750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.08638E-05       1.08882E-05
+       5.40000E-06       5.42500E-06       5.41250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.09142E-05       1.09387E-05
+       5.42500E-06       5.45000E-06       5.43750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.09648E-05       1.09891E-05
+       5.45000E-06       5.47500E-06       5.46250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.10150E-05       1.10395E-05
+       5.47500E-06       5.50000E-06       5.48750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.10654E-05       1.10899E-05
+       5.50000E-06       5.52500E-06       5.51250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.11158E-05       1.11403E-05
+       5.52500E-06       5.55000E-06       5.53750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.11662E-05       1.11907E-05
+       5.55000E-06       5.57500E-06       5.56250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.12169E-05       1.12411E-05
+       5.57500E-06       5.60000E-06       5.58750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.12670E-05       1.12915E-05
+       5.60000E-06       5.62500E-06       5.61250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.13175E-05       1.13420E-05
+       5.62500E-06       5.65000E-06       5.63750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.13679E-05       1.13924E-05
+       5.65000E-06       5.67500E-06       5.66250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.14183E-05       1.14428E-05
+       5.67500E-06       5.70000E-06       5.68750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.14689E-05       1.14932E-05
+       5.70000E-06       5.72500E-06       5.71250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.15191E-05       1.15436E-05
+       5.72500E-06       5.75000E-06       5.73750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.15695E-05       1.15940E-05
+       5.75000E-06       5.77500E-06       5.76250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.16199E-05       1.16444E-05
+       5.77500E-06       5.80000E-06       5.78750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.16703E-05       1.16948E-05
+       5.80000E-06       5.82500E-06       5.81250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.17210E-05       1.17453E-05
+       5.82500E-06       5.85000E-06       5.83750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.17712E-05       1.17957E-05
+       5.85000E-06       5.87500E-06       5.86250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.18216E-05       1.18461E-05
+       5.87500E-06       5.90000E-06       5.88750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.18720E-05       1.18965E-05
+       5.90000E-06       5.92500E-06       5.91250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.19224E-05       1.19469E-05
+       5.92500E-06       5.95000E-06       5.93750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.19730E-05       1.19973E-05
+       5.95000E-06       5.97500E-06       5.96250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.20232E-05       1.20477E-05
+       5.97500E-06       6.00000E-06       5.98750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.20736E-05       1.20981E-05
+       6.00000E-06       6.02500E-06       6.01250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.21241E-05       1.21486E-05
+       6.02500E-06       6.05000E-06       6.03750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.21745E-05       1.21990E-05
+       6.05000E-06       6.07500E-06       6.06250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.22251E-05       1.22494E-05
+       6.07500E-06       6.10000E-06       6.08750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.22753E-05       1.22998E-05
+       6.10000E-06       6.12500E-06       6.11250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.23257E-05       1.23502E-05
+       6.12500E-06       6.15000E-06       6.13750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.23761E-05       1.24006E-05
+       6.15000E-06       6.17500E-06       6.16250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.24265E-05       1.24510E-05
+       6.17500E-06       6.20000E-06       6.18750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.24772E-05       1.25014E-05
+       6.20000E-06       6.22500E-06       6.21250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.25273E-05       1.25519E-05
+       6.22500E-06       6.25000E-06       6.23750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.25778E-05       1.26023E-05
+       6.25000E-06       6.27500E-06       6.26250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.26282E-05       1.26527E-05
+       6.27500E-06       6.30000E-06       6.28750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.26786E-05       1.27031E-05
+       6.30000E-06       6.32500E-06       6.31250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.27292E-05       1.27535E-05
+       6.32500E-06       6.35000E-06       6.33750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.27794E-05       1.28039E-05
+       6.35000E-06       6.37500E-06       6.36250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.28298E-05       1.28543E-05
+       6.37500E-06       6.40000E-06       6.38750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.28802E-05       1.29047E-05
+       6.40000E-06       6.42500E-06       6.41250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.29306E-05       1.29552E-05
+       6.42500E-06       6.45000E-06       6.43750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.29813E-05       1.30056E-05
+       6.45000E-06       6.47500E-06       6.46250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.30315E-05       1.30560E-05
+       6.47500E-06       6.50000E-06       6.48750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.30819E-05       1.31064E-05
+       6.50000E-06       6.52500E-06       6.51250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.31323E-05       1.31568E-05
+       6.52500E-06       6.55000E-06       6.53750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.31827E-05       1.32072E-05
+       6.55000E-06       6.57500E-06       6.56250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.32334E-05       1.32576E-05
+       6.57500E-06       6.60000E-06       6.58750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.32835E-05       1.33080E-05
+       6.60000E-06       6.62500E-06       6.61250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.33339E-05       1.33585E-05
+       6.62500E-06       6.65000E-06       6.63750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.33843E-05       1.34089E-05
+       6.65000E-06       6.67500E-06       6.66250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.34348E-05       1.34593E-05
+       6.67500E-06       6.70000E-06       6.68750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.34854E-05       1.35097E-05
+       6.70000E-06       6.72500E-06       6.71250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.35356E-05       1.35601E-05
+       6.72500E-06       6.75000E-06       6.73750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.35860E-05       1.36105E-05
+       6.75000E-06       6.77500E-06       6.76250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.36364E-05       1.36609E-05
+       6.77500E-06       6.80000E-06       6.78750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.36868E-05       1.37113E-05
+       6.80000E-06       6.82500E-06       6.81250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.37375E-05       1.37618E-05
+       6.82500E-06       6.85000E-06       6.83750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.37876E-05       1.38122E-05
+       6.85000E-06       6.87500E-06       6.86250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.38381E-05       1.38626E-05
+       6.87500E-06       6.90000E-06       6.88750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.38885E-05       1.39130E-05
+       6.90000E-06       6.92500E-06       6.91250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.39389E-05       1.39634E-05
+       6.92500E-06       6.95000E-06       6.93750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.39896E-05       1.40138E-05
+       6.95000E-06       6.97500E-06       6.96250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.40397E-05       1.40642E-05
+       6.97500E-06       7.00000E-06       6.98750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.40901E-05       1.41146E-05
+       7.00000E-06       7.02500E-06       7.01250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.41405E-05       1.41651E-05
+       7.02500E-06       7.05000E-06       7.03750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.41909E-05       1.42155E-05
+       7.05000E-06       7.07500E-06       7.06250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.42416E-05       1.42659E-05
+       7.07500E-06       7.10000E-06       7.08750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.42918E-05       1.43163E-05
+       7.10000E-06       7.12500E-06       7.11250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.43422E-05       1.43667E-05
+       7.12500E-06       7.15000E-06       7.13750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.43926E-05       1.44171E-05
+       7.15000E-06       7.17500E-06       7.16250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.44430E-05       1.44675E-05
+       7.17500E-06       7.20000E-06       7.18750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.44937E-05       1.45179E-05
+       7.20000E-06       7.22500E-06       7.21250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.45438E-05       1.45684E-05
+       7.22500E-06       7.25000E-06       7.23750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.45942E-05       1.46188E-05
+       7.25000E-06       7.27500E-06       7.26250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.46446E-05       1.46692E-05
+       7.27500E-06       7.30000E-06       7.28750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.46951E-05       1.47196E-05
+       7.30000E-06       7.32500E-06       7.31250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.47457E-05       1.47700E-05
+       7.32500E-06       7.35000E-06       7.33750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.47959E-05       1.48204E-05
+       7.35000E-06       7.37500E-06       7.36250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.48463E-05       1.48708E-05
+       7.37500E-06       7.40000E-06       7.38750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.48967E-05       1.49212E-05
+       7.40000E-06       7.42500E-06       7.41250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.49471E-05       1.49717E-05
+       7.42500E-06       7.45000E-06       7.43750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.49978E-05       1.50221E-05
+       7.45000E-06       7.47500E-06       7.46250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.50479E-05       1.50725E-05
+       7.47500E-06       7.50000E-06       7.48750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.50984E-05       1.51229E-05
+       7.50000E-06       7.52500E-06       7.51250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.51488E-05       1.51733E-05
+       7.52500E-06       7.55000E-06       7.53750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.51992E-05       1.52237E-05
+       7.55000E-06       7.57500E-06       7.56250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.52499E-05       1.52741E-05
+       7.57500E-06       7.60000E-06       7.58750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.53000E-05       1.53245E-05
+       7.60000E-06       7.62500E-06       7.61250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.53504E-05       1.53749E-05
+       7.62500E-06       7.65000E-06       7.63750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.54008E-05       1.54254E-05
+       7.65000E-06       7.67500E-06       7.66250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.54512E-05       1.54758E-05
+       7.67500E-06       7.70000E-06       7.68750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.55019E-05       1.55262E-05
+       7.70000E-06       7.72500E-06       7.71250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.55521E-05       1.55766E-05
+       7.72500E-06       7.75000E-06       7.73750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.56025E-05       1.56270E-05
+       7.75000E-06       7.77500E-06       7.76250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.56529E-05       1.56774E-05
+       7.77500E-06       7.80000E-06       7.78750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.57033E-05       1.57278E-05
+       7.80000E-06       7.82500E-06       7.81250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.57540E-05       1.57782E-05
+       7.82500E-06       7.85000E-06       7.83750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.58041E-05       1.58287E-05
+       7.85000E-06       7.87500E-06       7.86250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.58545E-05       1.58791E-05
+       7.87500E-06       7.90000E-06       7.88750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.59049E-05       1.59295E-05
+       7.90000E-06       7.92500E-06       7.91250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.59554E-05       1.59799E-05
+       7.92500E-06       7.95000E-06       7.93750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.60061E-05       1.60303E-05
+       7.95000E-06       7.97500E-06       7.96250E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.60562E-05       1.60807E-05
+       7.97500E-06       8.00000E-06       7.98750E-06       2.50001E-08       5.04120E-08       2.01647E+00       1.61066E-05       1.61311E-05
+       8.00000E-06       8.02500E-06       8.01250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.61573E-05       1.61815E-05
+       8.02500E-06       8.05000E-06       8.03750E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.62071E-05       1.62319E-05
+       8.05000E-06       8.07500E-06       8.06250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.62581E-05       1.62824E-05
+       8.07500E-06       8.10000E-06       8.08750E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.63079E-05       1.63328E-05
+       8.10000E-06       8.12500E-06       8.11250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.63590E-05       1.63832E-05
+       8.12500E-06       8.15000E-06       8.13750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.64094E-05       1.64336E-05
+       8.15000E-06       8.17500E-06       8.16250E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.64592E-05       1.64840E-05
+       8.17500E-06       8.20000E-06       8.18750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.65102E-05       1.65344E-05
+       8.20000E-06       8.22500E-06       8.21250E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.65600E-05       1.65848E-05
+       8.22500E-06       8.25000E-06       8.23750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.66110E-05       1.66352E-05
+       8.25000E-06       8.27500E-06       8.26250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.66614E-05       1.66856E-05
+       8.27500E-06       8.30000E-06       8.28750E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.67112E-05       1.67361E-05
+       8.30000E-06       8.32500E-06       8.31250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.67623E-05       1.67865E-05
+       8.32500E-06       8.35000E-06       8.33750E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.68120E-05       1.68369E-05
+       8.35000E-06       8.37500E-06       8.36250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.68631E-05       1.68873E-05
+       8.37500E-06       8.40000E-06       8.38750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.69135E-05       1.69377E-05
+       8.40000E-06       8.42500E-06       8.41250E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.69633E-05       1.69881E-05
+       8.42500E-06       8.45000E-06       8.43750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.70143E-05       1.70385E-05
+       8.45000E-06       8.47500E-06       8.46250E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.70641E-05       1.70889E-05
+       8.47500E-06       8.50000E-06       8.48750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.71152E-05       1.71394E-05
+       8.50000E-06       8.52500E-06       8.51250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.71656E-05       1.71898E-05
+       8.52500E-06       8.55000E-06       8.53750E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.72153E-05       1.72402E-05
+       8.55000E-06       8.57500E-06       8.56250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.72664E-05       1.72906E-05
+       8.57500E-06       8.60000E-06       8.58750E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.73161E-05       1.73410E-05
+       8.60000E-06       8.62500E-06       8.61250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.73672E-05       1.73914E-05
+       8.62500E-06       8.65000E-06       8.63750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.74176E-05       1.74418E-05
+       8.65000E-06       8.67500E-06       8.66250E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.74674E-05       1.74922E-05
+       8.67500E-06       8.70000E-06       8.68750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.75185E-05       1.75426E-05
+       8.70000E-06       8.72500E-06       8.71250E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.75682E-05       1.75931E-05
+       8.72500E-06       8.75000E-06       8.73750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.76193E-05       1.76435E-05
+       8.75000E-06       8.77500E-06       8.76250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.76697E-05       1.76939E-05
+       8.77500E-06       8.80000E-06       8.78750E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.77194E-05       1.77443E-05
+       8.80000E-06       8.82500E-06       8.81250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.77705E-05       1.77947E-05
+       8.82500E-06       8.85000E-06       8.83750E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.78203E-05       1.78451E-05
+       8.85000E-06       8.87500E-06       8.86250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.78713E-05       1.78955E-05
+       8.87500E-06       8.90000E-06       8.88750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.79218E-05       1.79459E-05
+       8.90000E-06       8.92500E-06       8.91250E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.79715E-05       1.79963E-05
+       8.92500E-06       8.95000E-06       8.93750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.80226E-05       1.80468E-05
+       8.95000E-06       8.97500E-06       8.96250E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.80723E-05       1.80972E-05
+       8.97500E-06       9.00000E-06       8.98750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.81234E-05       1.81476E-05
+       9.00000E-06       9.02500E-06       9.01250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.81738E-05       1.81980E-05
+       9.02500E-06       9.05000E-06       9.03750E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.82235E-05       1.82484E-05
+       9.05000E-06       9.07500E-06       9.06250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.82746E-05       1.82988E-05
+       9.07500E-06       9.10000E-06       9.08750E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.83244E-05       1.83492E-05
+       9.10000E-06       9.12500E-06       9.11250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.83755E-05       1.83996E-05
+       9.12500E-06       9.15000E-06       9.13750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.84259E-05       1.84500E-05
+       9.15000E-06       9.17500E-06       9.16250E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.84756E-05       1.85005E-05
+       9.17500E-06       9.20000E-06       9.18750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.85267E-05       1.85509E-05
+       9.20000E-06       9.22500E-06       9.21250E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.85764E-05       1.86013E-05
+       9.22500E-06       9.25000E-06       9.23750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.86275E-05       1.86517E-05
+       9.25000E-06       9.27500E-06       9.26250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.86779E-05       1.87021E-05
+       9.27500E-06       9.30000E-06       9.28750E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.87276E-05       1.87525E-05
+       9.30000E-06       9.32500E-06       9.31250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.87788E-05       1.88029E-05
+       9.32500E-06       9.35000E-06       9.33750E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.88285E-05       1.88533E-05
+       9.35000E-06       9.37500E-06       9.36250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.88796E-05       1.89038E-05
+       9.37500E-06       9.40000E-06       9.38750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.89300E-05       1.89542E-05
+       9.40000E-06       9.42500E-06       9.41250E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.89797E-05       1.90046E-05
+       9.42500E-06       9.45000E-06       9.43750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.90308E-05       1.90550E-05
+       9.45000E-06       9.47500E-06       9.46250E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.90805E-05       1.91054E-05
+       9.47500E-06       9.50000E-06       9.48750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.91317E-05       1.91558E-05
+       9.50000E-06       9.52500E-06       9.51250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.91821E-05       1.92062E-05
+       9.52500E-06       9.55000E-06       9.53750E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.92318E-05       1.92566E-05
+       9.55000E-06       9.57500E-06       9.56250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.92829E-05       1.93070E-05
+       9.57500E-06       9.60000E-06       9.58750E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.93326E-05       1.93575E-05
+       9.60000E-06       9.62500E-06       9.61250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.93837E-05       1.94079E-05
+       9.62500E-06       9.65000E-06       9.63750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.94341E-05       1.94583E-05
+       9.65000E-06       9.67500E-06       9.66250E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.94838E-05       1.95087E-05
+       9.67500E-06       9.70000E-06       9.68750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.95350E-05       1.95591E-05
+       9.70000E-06       9.72500E-06       9.71250E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.95846E-05       1.96095E-05
+       9.72500E-06       9.75000E-06       9.73750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.96358E-05       1.96599E-05
+       9.75000E-06       9.77500E-06       9.76250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.96862E-05       1.97103E-05
+       9.77500E-06       9.80000E-06       9.78750E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.97359E-05       1.97607E-05
+       9.80000E-06       9.82500E-06       9.81250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.97870E-05       1.98112E-05
+       9.82500E-06       9.85000E-06       9.83750E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.98367E-05       1.98616E-05
+       9.85000E-06       9.87500E-06       9.86250E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.98879E-05       1.99120E-05
+       9.87500E-06       9.90000E-06       9.88750E-06       2.49996E-08       5.04120E-08       2.01651E+00       1.99383E-05       1.99624E-05
+       9.90000E-06       9.92500E-06       9.91250E-06       2.50006E-08       5.04120E-08       2.01644E+00       1.99879E-05       2.00128E-05
+       9.92500E-06       9.95000E-06       9.93750E-06       2.49996E-08       5.04120E-08       2.01651E+00       2.00391E-05       2.00632E-05
+       9.95000E-06       9.97500E-06       9.96250E-06       2.50006E-08       5.04120E-08       2.01644E+00       2.00887E-05       2.01136E-05
+       9.97500E-06       1.00000E-05       9.98750E-06       2.49996E-08       5.04120E-08       2.01651E+00       2.01399E-05       2.01640E-05
+       1.00000E-05       1.04713E-05       1.02356E-05       4.71300E-07       9.50345E-07       2.01643E+00       2.06395E-05       2.11144E-05
+       1.04713E-05       1.09648E-05       1.07180E-05       4.93500E-07       9.95113E-07       2.01644E+00       2.16123E-05       2.21095E-05
+       1.09648E-05       1.14815E-05       1.12232E-05       5.16700E-07       1.04204E-06       2.01671E+00       2.26339E-05       2.31515E-05
+       1.14815E-05       1.20226E-05       1.17521E-05       5.41101E-07       1.09112E-06       2.01647E+00       2.36977E-05       2.42426E-05
+       1.20226E-05       1.25892E-05       1.23059E-05       5.66600E-07       1.14256E-06       2.01652E+00       2.48150E-05       2.53852E-05
+       1.25892E-05       1.31826E-05       1.28859E-05       5.93400E-07       1.19642E-06       2.01621E+00       2.59806E-05       2.65816E-05
+       1.31826E-05       1.38038E-05       1.34932E-05       6.21200E-07       1.25278E-06       2.01671E+00       2.72118E-05       2.78344E-05
+       1.38038E-05       1.44544E-05       1.41291E-05       6.50600E-07       1.31184E-06       2.01635E+00       2.84892E-05       2.91462E-05
+       1.44544E-05       1.51356E-05       1.47950E-05       6.81200E-07       1.37364E-06       2.01650E+00       2.98342E-05       3.05199E-05
+       1.51356E-05       1.58489E-05       1.54922E-05       7.13300E-07       1.43839E-06       2.01654E+00       3.12407E-05       3.19583E-05
+       1.58489E-05       1.65959E-05       1.62224E-05       7.47000E-07       1.50619E-06       2.01632E+00       3.27095E-05       3.34645E-05
+       1.65959E-05       1.73780E-05       1.69869E-05       7.82101E-07       1.57717E-06       2.01658E+00       3.42555E-05       3.50416E-05
+       1.73780E-05       1.81970E-05       1.77875E-05       8.19000E-07       1.65149E-06       2.01647E+00       3.58681E-05       3.66931E-05
+       1.81970E-05       1.90546E-05       1.86258E-05       8.57599E-07       1.72933E-06       2.01648E+00       3.75585E-05       3.84225E-05
+       1.90546E-05       1.99526E-05       1.95036E-05       8.98001E-07       1.81082E-06       2.01650E+00       3.93290E-05       4.02333E-05
+       1.99526E-05       2.08930E-05       2.04228E-05       9.40399E-07       1.89617E-06       2.01635E+00       4.11795E-05       4.21294E-05
+       2.08930E-05       2.18776E-05       2.13853E-05       9.84600E-07       1.98554E-06       2.01660E+00       4.31256E-05       4.41150E-05
+       2.18776E-05       2.29087E-05       2.23932E-05       1.03110E-06       2.07911E-06       2.01640E+00       4.51535E-05       4.61941E-05
+       2.29087E-05       2.39883E-05       2.34485E-05       1.07960E-06       2.17709E-06       2.01657E+00       4.72856E-05       4.83712E-05
+       2.39883E-05       2.51189E-05       2.45536E-05       1.13060E-06       2.27969E-06       2.01635E+00       4.95087E-05       5.06509E-05
+       2.51189E-05       2.63027E-05       2.57108E-05       1.18380E-06       2.38714E-06       2.01651E+00       5.18461E-05       5.30380E-05
+       2.63027E-05       2.75423E-05       2.69225E-05       1.23960E-06       2.49965E-06       2.01649E+00       5.42891E-05       5.55377E-05
+       2.75423E-05       2.88403E-05       2.81913E-05       1.29800E-06       2.61745E-06       2.01652E+00       5.68484E-05       5.81551E-05
+       2.88403E-05       3.01995E-05       2.95199E-05       1.35920E-06       2.74080E-06       2.01648E+00       5.95262E-05       6.08959E-05
+       3.01995E-05       3.16228E-05       3.09111E-05       1.42330E-06       2.86997E-06       2.01642E+00       6.23298E-05       6.37659E-05
+       3.16228E-05       3.31131E-05       3.23679E-05       1.49030E-06       3.00521E-06       2.01652E+00       6.52706E-05       6.67711E-05
+       3.31131E-05       3.46737E-05       3.38934E-05       1.56060E-06       3.14687E-06       2.01645E+00       6.83444E-05       6.99180E-05
+       3.46737E-05       3.63078E-05       3.54907E-05       1.63410E-06       3.29517E-06       2.01650E+00       7.15671E-05       7.32131E-05
+       3.63078E-05       3.80189E-05       3.71634E-05       1.71110E-06       3.45045E-06       2.01651E+00       7.49403E-05       7.66636E-05
+       3.80189E-05       3.98107E-05       3.89148E-05       1.79180E-06       3.61310E-06       2.01647E+00       7.84704E-05       8.02767E-05
+       3.98107E-05       4.16869E-05       4.07488E-05       1.87620E-06       3.78337E-06       2.01651E+00       8.21702E-05       8.40601E-05
+       4.16869E-05       4.36516E-05       4.26692E-05       1.96470E-06       3.96166E-06       2.01642E+00       8.60391E-05       8.80217E-05
+       4.36516E-05       4.57088E-05       4.46802E-05       2.05720E-06       4.14838E-06       2.01652E+00       9.00983E-05       9.21701E-05
+       4.57088E-05       4.78630E-05       4.67859E-05       2.15420E-06       4.34388E-06       2.01647E+00       9.43425E-05       9.65140E-05
+       4.78630E-05       5.01187E-05       4.89908E-05       2.25570E-06       4.54859E-06       2.01649E+00       9.87895E-05       1.01063E-04
+       5.01187E-05       5.24808E-05       5.12998E-05       2.36210E-06       4.76300E-06       2.01642E+00       1.03442E-04       1.05826E-04
+       5.24808E-05       5.49541E-05       5.37174E-05       2.47330E-06       4.98745E-06       2.01651E+00       1.08322E-04       1.10813E-04
+       5.49541E-05       5.75440E-05       5.62490E-05       2.58990E-06       5.22247E-06       2.01648E+00       1.13425E-04       1.16035E-04
+       5.75440E-05       6.02560E-05       5.89000E-05       2.71200E-06       5.46861E-06       2.01645E+00       1.18769E-04       1.21504E-04
+       6.02560E-05       6.30957E-05       6.16758E-05       2.83970E-06       5.72635E-06       2.01653E+00       1.24371E-04       1.27230E-04
+       6.30957E-05       6.60693E-05       6.45825E-05       2.97360E-06       5.99623E-06       2.01649E+00       1.30230E-04       1.33227E-04
+       6.60693E-05       6.91831E-05       6.76262E-05       3.11380E-06       6.27881E-06       2.01645E+00       1.36365E-04       1.39505E-04
+       6.91831E-05       7.24436E-05       7.08134E-05       3.26051E-06       6.57473E-06       2.01647E+00       1.42793E-04       1.46080E-04
+       7.24436E-05       7.58578E-05       7.41507E-05       3.41420E-06       6.88457E-06       2.01645E+00       1.49521E-04       1.52965E-04
+       7.58578E-05       7.94328E-05       7.76453E-05       3.57500E-06       7.20902E-06       2.01651E+00       1.56573E-04       1.60174E-04
+       7.94328E-05       8.31764E-05       8.13046E-05       3.74360E-06       7.54879E-06       2.01645E+00       1.63947E-04       1.67723E-04
+       8.31764E-05       8.70964E-05       8.51364E-05       3.92000E-06       7.90455E-06       2.01647E+00       1.71675E-04       1.75627E-04
+       8.70964E-05       9.12011E-05       8.91488E-05       4.10471E-06       8.27708E-06       2.01649E+00       1.79767E-04       1.83904E-04
+       9.12011E-05       9.54993E-05       9.33502E-05       4.29820E-06       8.66719E-06       2.01647E+00       1.88238E-04       1.92571E-04
+       9.54993E-05       1.00000E-04       9.77497E-05       4.50070E-06       9.07563E-06       2.01649E+00       1.97111E-04       2.01647E-04
+       1.00000E-04       1.04713E-04       1.02356E-04       4.71300E-06       9.50345E-06       2.01644E+00       2.06395E-04       2.11150E-04
+       1.04713E-04       1.09648E-04       1.07181E-04       4.93501E-06       9.95113E-06       2.01644E+00       2.16123E-04       2.21102E-04
+       1.09648E-04       1.14815E-04       1.12232E-04       5.16700E-06       1.04204E-05       2.01671E+00       2.26339E-04       2.31522E-04
+       1.14815E-04       1.20226E-04       1.17520E-04       5.41100E-06       1.09112E-05       2.01648E+00       2.36978E-04       2.42433E-04
+       1.20226E-04       1.25892E-04       1.23059E-04       5.66600E-06       1.14256E-05       2.01651E+00       2.48150E-04       2.53859E-04
+       1.25892E-04       1.31826E-04       1.28859E-04       5.93401E-06       1.19642E-05       2.01621E+00       2.59806E-04       2.65823E-04
+       1.31826E-04       1.38038E-04       1.34932E-04       6.21199E-06       1.25278E-05       2.01671E+00       2.72118E-04       2.78351E-04
+       1.38038E-04       1.44544E-04       1.41291E-04       6.50601E-06       1.31184E-05       2.01635E+00       2.84892E-04       2.91469E-04
+       1.44544E-04       1.51356E-04       1.47950E-04       6.81200E-06       1.37364E-05       2.01650E+00       2.98342E-04       3.05205E-04
+       1.51356E-04       1.58489E-04       1.54922E-04       7.13300E-06       1.43839E-05       2.01654E+00       3.12407E-04       3.19589E-04
+       1.58489E-04       1.65959E-04       1.62224E-04       7.47000E-06       1.50619E-05       2.01632E+00       3.27095E-04       3.34651E-04
+       1.65959E-04       1.73780E-04       1.69870E-04       7.82100E-06       1.57717E-05       2.01658E+00       3.42555E-04       3.50423E-04
+       1.73780E-04       1.81970E-04       1.77875E-04       8.19000E-06       1.65149E-05       2.01647E+00       3.58680E-04       3.66938E-04
+       1.81970E-04       1.90546E-04       1.86258E-04       8.57600E-06       1.72933E-05       2.01648E+00       3.75585E-04       3.84231E-04
+       1.90546E-04       1.99526E-04       1.95036E-04       8.98000E-06       1.81082E-05       2.01650E+00       3.93290E-04       4.02339E-04
+       1.99526E-04       2.08930E-04       2.04228E-04       9.40399E-06       1.89617E-05       2.01635E+00       4.11795E-04       4.21301E-04
+       2.08930E-04       2.18776E-04       2.13853E-04       9.84601E-06       1.98554E-05       2.01660E+00       4.31255E-04       4.41157E-04
+       2.18776E-04       2.29087E-04       2.23932E-04       1.03110E-05       2.07911E-05       2.01640E+00       4.51535E-04       4.61948E-04
+       2.29087E-04       2.39883E-04       2.34485E-04       1.07960E-05       2.17709E-05       2.01657E+00       4.72856E-04       4.83719E-04
+       2.39883E-04       2.51189E-04       2.45536E-04       1.13060E-05       2.27969E-05       2.01635E+00       4.95087E-04       5.06515E-04
+       2.51189E-04       2.63027E-04       2.57108E-04       1.18380E-05       2.38714E-05       2.01651E+00       5.18460E-04       5.30387E-04
+       2.63027E-04       2.75423E-04       2.69225E-04       1.23960E-05       2.49965E-05       2.01649E+00       5.42891E-04       5.55383E-04
+       2.75423E-04       2.88403E-04       2.81913E-04       1.29800E-05       2.61745E-05       2.01652E+00       5.68484E-04       5.81558E-04
+       2.88403E-04       3.01995E-04       2.95199E-04       1.35920E-05       2.74080E-05       2.01648E+00       5.95263E-04       6.08966E-04
+       3.01995E-04       3.16228E-04       3.09111E-04       1.42330E-05       2.86997E-05       2.01642E+00       6.23299E-04       6.37665E-04
+       3.16228E-04       3.31131E-04       3.23680E-04       1.49030E-05       3.00521E-05       2.01651E+00       6.52704E-04       6.67718E-04
+       3.31131E-04       3.46737E-04       3.38934E-04       1.56060E-05       3.14687E-05       2.01645E+00       6.83444E-04       6.99186E-04
+       3.46737E-04       3.63078E-04       3.54908E-04       1.63410E-05       3.29517E-05       2.01650E+00       7.15671E-04       7.32138E-04
+       3.63078E-04       3.80189E-04       3.71634E-04       1.71110E-05       3.45045E-05       2.01651E+00       7.49403E-04       7.66642E-04
+       3.80189E-04       3.98107E-04       3.89148E-04       1.79180E-05       3.61310E-05       2.01646E+00       7.84703E-04       8.02773E-04
+       3.98107E-04       4.16869E-04       4.07488E-04       1.87620E-05       3.78337E-05       2.01651E+00       8.21703E-04       8.40607E-04
+       4.16869E-04       4.36516E-04       4.26692E-04       1.96470E-05       3.96166E-05       2.01642E+00       8.60390E-04       8.80224E-04
+       4.36516E-04       4.57088E-04       4.46802E-04       2.05720E-05       4.14838E-05       2.01651E+00       9.00983E-04       9.21707E-04
+       4.57088E-04       4.78630E-04       4.67859E-04       2.15420E-05       4.34388E-05       2.01647E+00       9.43425E-04       9.65146E-04
+       4.78630E-04       5.01187E-04       4.89909E-04       2.25570E-05       4.54859E-05       2.01649E+00       9.87894E-04       1.01063E-03
+       5.01187E-04       5.24808E-04       5.12998E-04       2.36210E-05       4.76300E-05       2.01643E+00       1.03442E-03       1.05826E-03
+       5.24808E-04       5.49541E-04       5.37175E-04       2.47330E-05       4.98745E-05       2.01651E+00       1.08322E-03       1.10814E-03
+       5.49541E-04       5.75440E-04       5.62491E-04       2.58990E-05       5.22247E-05       2.01647E+00       1.13425E-03       1.16036E-03
+       5.75440E-04       6.02560E-04       5.89000E-04       2.71200E-05       5.46861E-05       2.01645E+00       1.18769E-03       1.21505E-03
+       6.02560E-04       6.30957E-04       6.16758E-04       2.83970E-05       5.72635E-05       2.01653E+00       1.24371E-03       1.27231E-03
+       6.30957E-04       6.60693E-04       6.45825E-04       2.97360E-05       5.99623E-05       2.01649E+00       1.30230E-03       1.33227E-03
+       6.60693E-04       6.91831E-04       6.76262E-04       3.11380E-05       6.27881E-05       2.01645E+00       1.36365E-03       1.39506E-03
+       6.91831E-04       7.24436E-04       7.08133E-04       3.26050E-05       6.57473E-05       2.01648E+00       1.42794E-03       1.46081E-03
+       7.24436E-04       7.58578E-04       7.41507E-04       3.41420E-05       6.88457E-05       2.01645E+00       1.49521E-03       1.52965E-03
+       7.58578E-04       7.94328E-04       7.76453E-04       3.57500E-05       7.20902E-05       2.01651E+00       1.56572E-03       1.60174E-03
+       7.94328E-04       8.31764E-04       8.13046E-04       3.74360E-05       7.54879E-05       2.01645E+00       1.63947E-03       1.67723E-03
+       8.31764E-04       8.70964E-04       8.51364E-04       3.92000E-05       7.90455E-05       2.01647E+00       1.71675E-03       1.75628E-03
+       8.70964E-04       9.12011E-04       8.91487E-04       4.10470E-05       8.27708E-05       2.01649E+00       1.79768E-03       1.83905E-03
+       9.12011E-04       9.54993E-04       9.33502E-04       4.29820E-05       8.66718E-05       2.01647E+00       1.88238E-03       1.92572E-03
+       9.54993E-04       1.00000E-03       9.77497E-04       4.50070E-05       9.07563E-05       2.01649E+00       1.97111E-03       2.01648E-03
+       1.00000E-03       1.04713E-03       1.02356E-03       4.71300E-05       9.50345E-05       2.01643E+00       2.06395E-03       2.11151E-03
+       1.04713E-03       1.09648E-03       1.07180E-03       4.93500E-05       9.95113E-05       2.01644E+00       2.16123E-03       2.21102E-03
+       1.09648E-03       1.14815E-03       1.12231E-03       5.16700E-05       1.04204E-04       2.01671E+00       2.26339E-03       2.31523E-03
+       1.14815E-03       1.20226E-03       1.17520E-03       5.41100E-05       1.09112E-04       2.01648E+00       2.36977E-03       2.42434E-03
+       1.20226E-03       1.25892E-03       1.23059E-03       5.66600E-05       1.14256E-04       2.01651E+00       2.48150E-03       2.53859E-03
+       1.25892E-03       1.31826E-03       1.28859E-03       5.93400E-05       1.19642E-04       2.01621E+00       2.59807E-03       2.65824E-03
+       1.31826E-03       1.38038E-03       1.34932E-03       6.21200E-05       1.25278E-04       2.01670E+00       2.72118E-03       2.78351E-03
+       1.38038E-03       1.44544E-03       1.41291E-03       6.50599E-05       1.31184E-04       2.01635E+00       2.84892E-03       2.91470E-03
+       1.44544E-03       1.51356E-03       1.47950E-03       6.81201E-05       1.37364E-04       2.01650E+00       2.98341E-03       3.05206E-03
+       1.51356E-03       1.58489E-03       1.54923E-03       7.13300E-05       1.43839E-04       2.01654E+00       3.12407E-03       3.19590E-03
+       1.58489E-03       1.65959E-03       1.62224E-03       7.47000E-05       1.50619E-04       2.01632E+00       3.27095E-03       3.34652E-03
+       1.65959E-03       1.73780E-03       1.69870E-03       7.82101E-05       1.57717E-04       2.01658E+00       3.42555E-03       3.50424E-03
+       1.73780E-03       1.81970E-03       1.77875E-03       8.18999E-05       1.65149E-04       2.01648E+00       3.58681E-03       3.66939E-03
+       1.81970E-03       1.90546E-03       1.86258E-03       8.57600E-05       1.72933E-04       2.01648E+00       3.75585E-03       3.84232E-03
+       1.90546E-03       1.99526E-03       1.95036E-03       8.98001E-05       1.81082E-04       2.01650E+00       3.93290E-03       4.02340E-03
+       1.99526E-03       2.08930E-03       2.04228E-03       9.40400E-05       1.89617E-04       2.01635E+00       4.11794E-03       4.21302E-03
+       2.08930E-03       2.18776E-03       2.13853E-03       9.84600E-05       1.98554E-04       2.01660E+00       4.31256E-03       4.41157E-03
+       2.18776E-03       2.29087E-03       2.23932E-03       1.03110E-04       2.07911E-04       2.01640E+00       4.51535E-03       4.61948E-03
+       2.29087E-03       2.39883E-03       2.34485E-03       1.07960E-04       2.17709E-04       2.01657E+00       4.72856E-03       4.83719E-03
+       2.39883E-03       2.51189E-03       2.45536E-03       1.13060E-04       2.27969E-04       2.01635E+00       4.95087E-03       5.06516E-03
+       2.51189E-03       2.63027E-03       2.57108E-03       1.18380E-04       2.38714E-04       2.01651E+00       5.18460E-03       5.30387E-03
+       2.63027E-03       2.75423E-03       2.69225E-03       1.23960E-04       2.49965E-04       2.01649E+00       5.42891E-03       5.55384E-03
+       2.75423E-03       2.88403E-03       2.81913E-03       1.29800E-04       2.61745E-04       2.01652E+00       5.68484E-03       5.81558E-03
+       2.88403E-03       3.01995E-03       2.95199E-03       1.35920E-04       2.74080E-04       2.01648E+00       5.95262E-03       6.08966E-03
+       3.01995E-03       3.16228E-03       3.09112E-03       1.42330E-04       2.86997E-04       2.01642E+00       6.23298E-03       6.37666E-03
+       3.16228E-03       3.31131E-03       3.23679E-03       1.49030E-04       3.00521E-04       2.01652E+00       6.52705E-03       6.67718E-03
+       3.31131E-03       3.46737E-03       3.38934E-03       1.56060E-04       3.14687E-04       2.01645E+00       6.83443E-03       6.99187E-03
+       3.46737E-03       3.63078E-03       3.54907E-03       1.63410E-04       3.29516E-04       2.01650E+00       7.15672E-03       7.32139E-03
+       3.63078E-03       3.80189E-03       3.71633E-03       1.71110E-04       3.45045E-04       2.01651E+00       7.49404E-03       7.66643E-03
+       3.80189E-03       3.98107E-03       3.89148E-03       1.79180E-04       3.61310E-04       2.01646E+00       7.84702E-03       8.02774E-03
+       3.98107E-03       4.16869E-03       4.07488E-03       1.87620E-04       3.78337E-04       2.01651E+00       8.21703E-03       8.40608E-03
+       4.16869E-03       4.36516E-03       4.26693E-03       1.96470E-04       3.96166E-04       2.01642E+00       8.60390E-03       8.80224E-03
+       4.36516E-03       4.57088E-03       4.46802E-03       2.05720E-04       4.14838E-04       2.01652E+00       9.00985E-03       9.21708E-03
+       4.57088E-03       4.78630E-03       4.67859E-03       2.15420E-04       4.34388E-04       2.01647E+00       9.43425E-03       9.65147E-03
+       4.78630E-03       5.01187E-03       4.89909E-03       2.25570E-04       4.54859E-04       2.01649E+00       9.87893E-03       1.01063E-02
+       5.01187E-03       5.24807E-03       5.12997E-03       2.36200E-04       4.76300E-04       2.01651E+00       1.03446E-02       1.05826E-02
+       5.24807E-03       5.49541E-03       5.37174E-03       2.47340E-04       4.98745E-04       2.01643E+00       1.08317E-02       1.10814E-02
+       5.49541E-03       5.75440E-03       5.62491E-03       2.58990E-04       5.22247E-04       2.01648E+00       1.13425E-02       1.16036E-02
+       5.75440E-03       6.02560E-03       5.89000E-03       2.71200E-04       5.46861E-04       2.01645E+00       1.18769E-02       1.21505E-02
+       6.02560E-03       6.30957E-03       6.16759E-03       2.83970E-04       5.72635E-04       2.01653E+00       1.24371E-02       1.27231E-02
+       6.30957E-03       6.60693E-03       6.45825E-03       2.97360E-04       5.99623E-04       2.01648E+00       1.30230E-02       1.33227E-02
+       6.60693E-03       6.91831E-03       6.76262E-03       3.11380E-04       6.27881E-04       2.01645E+00       1.36365E-02       1.39506E-02
+       6.91831E-03       7.24436E-03       7.08133E-03       3.26050E-04       6.57473E-04       2.01648E+00       1.42794E-02       1.46081E-02
+       7.24436E-03       7.58578E-03       7.41507E-03       3.41420E-04       6.88457E-04       2.01645E+00       1.49521E-02       1.52966E-02
+       7.58578E-03       7.94328E-03       7.76453E-03       3.57500E-04       7.20902E-04       2.01651E+00       1.56572E-02       1.60175E-02
+       7.94328E-03       8.31764E-03       8.13046E-03       3.74360E-04       7.54879E-04       2.01645E+00       1.63947E-02       1.67723E-02
+       8.31764E-03       8.70964E-03       8.51364E-03       3.92000E-04       7.90455E-04       2.01647E+00       1.71675E-02       1.75628E-02
+       8.70964E-03       9.12011E-03       8.91487E-03       4.10471E-04       8.27708E-04       2.01649E+00       1.79767E-02       1.83905E-02
+       9.12011E-03       9.54993E-03       9.33502E-03       4.29819E-04       8.66718E-04       2.01647E+00       1.88238E-02       1.92572E-02
+       9.54993E-03       1.00000E-02       9.77496E-03       4.50070E-04       9.07562E-04       2.01649E+00       1.97111E-02       2.01648E-02
+       1.00000E-02       1.04713E-02       1.02357E-02       4.71300E-04       9.50345E-04       2.01643E+00       2.06395E-02       2.11151E-02
+       1.04713E-02       1.09648E-02       1.07180E-02       4.93500E-04       9.95113E-04       2.01644E+00       2.16123E-02       2.21102E-02
+       1.09648E-02       1.14815E-02       1.12232E-02       5.16700E-04       1.04204E-03       2.01671E+00       2.26339E-02       2.31523E-02
+       1.14815E-02       1.20226E-02       1.17521E-02       5.41100E-04       1.09112E-03       2.01648E+00       2.36977E-02       2.42434E-02
+       1.20226E-02       1.25892E-02       1.23059E-02       5.66601E-04       1.14256E-03       2.01651E+00       2.48150E-02       2.53859E-02
+       1.25892E-02       1.31826E-02       1.28859E-02       5.93399E-04       1.19642E-03       2.01621E+00       2.59807E-02       2.65824E-02
+       1.31826E-02       1.38038E-02       1.34932E-02       6.21200E-04       1.25278E-03       2.01670E+00       2.72118E-02       2.78351E-02
+       1.38038E-02       1.44544E-02       1.41291E-02       6.50601E-04       1.31184E-03       2.01635E+00       2.84892E-02       2.91470E-02
+       1.44544E-02       1.51356E-02       1.47950E-02       6.81199E-04       1.37364E-03       2.01651E+00       2.98342E-02       3.05206E-02
+       1.51356E-02       1.58489E-02       1.54923E-02       7.13301E-04       1.43839E-03       2.01653E+00       3.12406E-02       3.19590E-02
+       1.58489E-02       1.65959E-02       1.62224E-02       7.47000E-04       1.50619E-03       2.01632E+00       3.27095E-02       3.34652E-02
+       1.65959E-02       1.73780E-02       1.69870E-02       7.82100E-04       1.57717E-03       2.01658E+00       3.42555E-02       3.50424E-02
+       1.73780E-02       1.81970E-02       1.77875E-02       8.19000E-04       1.65149E-03       2.01648E+00       3.58681E-02       3.66939E-02
+       1.81970E-02       1.90546E-02       1.86258E-02       8.57600E-04       1.72933E-03       2.01648E+00       3.75585E-02       3.84232E-02
+       1.90546E-02       1.99526E-02       1.95036E-02       8.98000E-04       1.81082E-03       2.01650E+00       3.93290E-02       4.02340E-02
+       1.99526E-02       2.08930E-02       2.04228E-02       9.40400E-04       1.89617E-03       2.01635E+00       4.11794E-02       4.21302E-02
+       2.08930E-02       2.18776E-02       2.13853E-02       9.84600E-04       1.98554E-03       2.01660E+00       4.31256E-02       4.41157E-02
+       2.18776E-02       2.29087E-02       2.23931E-02       1.03110E-03       2.07911E-03       2.01640E+00       4.51535E-02       4.61948E-02
+       2.29087E-02       2.39883E-02       2.34485E-02       1.07960E-03       2.17709E-03       2.01657E+00       4.72855E-02       4.83719E-02
+       2.39883E-02       2.51189E-02       2.45536E-02       1.13060E-03       2.27969E-03       2.01635E+00       4.95087E-02       5.06516E-02
+       2.51189E-02       2.63027E-02       2.57108E-02       1.18380E-03       2.38714E-03       2.01651E+00       5.18461E-02       5.30387E-02
+       2.63027E-02       2.75423E-02       2.69225E-02       1.23960E-03       2.49965E-03       2.01649E+00       5.42890E-02       5.55384E-02
+       2.75423E-02       2.88403E-02       2.81913E-02       1.29800E-03       2.61745E-03       2.01652E+00       5.68484E-02       5.81558E-02
+       2.88403E-02       3.01995E-02       2.95199E-02       1.35920E-03       2.74080E-03       2.01648E+00       5.95262E-02       6.08966E-02
+       3.01995E-02       3.16228E-02       3.09112E-02       1.42330E-03       2.86997E-03       2.01642E+00       6.23298E-02       6.37666E-02
+       3.16228E-02       3.31131E-02       3.23680E-02       1.49030E-03       3.00521E-03       2.01652E+00       6.52705E-02       6.67718E-02
+       3.31131E-02       3.46737E-02       3.38934E-02       1.56060E-03       3.14687E-03       2.01645E+00       6.83445E-02       6.99187E-02
+       3.46737E-02       3.63078E-02       3.54908E-02       1.63410E-03       3.29517E-03       2.01650E+00       7.15671E-02       7.32139E-02
+       3.63078E-02       3.80189E-02       3.71633E-02       1.71110E-03       3.45045E-03       2.01651E+00       7.49404E-02       7.66643E-02
+       3.80189E-02       3.98107E-02       3.89148E-02       1.79180E-03       3.61310E-03       2.01646E+00       7.84703E-02       8.02774E-02
+       3.98107E-02       4.16869E-02       4.07488E-02       1.87620E-03       3.78337E-03       2.01651E+00       8.21703E-02       8.40608E-02
+       4.16869E-02       4.36516E-02       4.26693E-02       1.96470E-03       3.96166E-03       2.01641E+00       8.60389E-02       8.80224E-02
+       4.36516E-02       4.57088E-02       4.46802E-02       2.05720E-03       4.14838E-03       2.01652E+00       9.00984E-02       9.21708E-02
+       4.57088E-02       4.78630E-02       4.67859E-02       2.15420E-03       4.34388E-03       2.01647E+00       9.43424E-02       9.65147E-02
+       4.78630E-02       5.01187E-02       4.89908E-02       2.25570E-03       4.54859E-03       2.01649E+00       9.87895E-02       1.01063E-01
+       5.01187E-02       5.24808E-02       5.12998E-02       2.36210E-03       4.76300E-03       2.01642E+00       1.03442E-01       1.05826E-01
+       5.24808E-02       5.49541E-02       5.37174E-02       2.47330E-03       4.98745E-03       2.01651E+00       1.08322E-01       1.10814E-01
+       5.49541E-02       5.75440E-02       5.62491E-02       2.58990E-03       5.22247E-03       2.01647E+00       1.13425E-01       1.16036E-01
+       5.75440E-02       6.02560E-02       5.89000E-02       2.71200E-03       5.46861E-03       2.01645E+00       1.18769E-01       1.21505E-01
+       6.02560E-02       6.30957E-02       6.16758E-02       2.83970E-03       5.72635E-03       2.01653E+00       1.24371E-01       1.27231E-01
+       6.30957E-02       6.60693E-02       6.45825E-02       2.97360E-03       5.99623E-03       2.01649E+00       1.30230E-01       1.33227E-01
+       6.60693E-02       6.91831E-02       6.76262E-02       3.11380E-03       6.45825E-03       2.07407E+00       1.40262E-01       1.39686E-01
+       6.91831E-02       7.24436E-02       7.08134E-02       3.26050E-03       6.84499E-03       2.09937E+00       1.48663E-01       1.46531E-01
+       7.24436E-02       7.58578E-02       7.41507E-02       3.41420E-03       7.16758E-03       2.09935E+00       1.55668E-01       1.53698E-01
+       7.58578E-02       7.94328E-02       7.76453E-02       3.57500E-03       7.50539E-03       2.09941E+00       1.63009E-01       1.61204E-01
+       7.94328E-02       8.31764E-02       8.13046E-02       3.74360E-03       7.85913E-03       2.09935E+00       1.70687E-01       1.69063E-01
+       8.31764E-02       8.70964E-02       8.51364E-02       3.92000E-03       8.22949E-03       2.09936E+00       1.78732E-01       1.77292E-01
+       8.70964E-02       9.12011E-02       8.91488E-02       4.10470E-03       8.61735E-03       2.09938E+00       1.87157E-01       1.85910E-01
+       9.12011E-02       9.54993E-02       9.33502E-02       4.29820E-03       9.02348E-03       2.09936E+00       1.95976E-01       1.94933E-01
+       9.54993E-02       1.00000E-01       9.77497E-02       4.50070E-03       9.44872E-03       2.09939E+00       2.05214E-01       2.04382E-01
+       1.00000E-01       1.04713E-01       1.02357E-01       4.71300E-03       9.89415E-03       2.09933E+00       2.14880E-01       2.14276E-01
+       1.04713E-01       1.09648E-01       1.07180E-01       4.93500E-03       1.03602E-02       2.09933E+00       2.25007E-01       2.24636E-01
+       1.09648E-01       1.14815E-01       1.12231E-01       5.16700E-03       1.08487E-02       2.09962E+00       2.35643E-01       2.35485E-01
+       1.14815E-01       1.20226E-01       1.17520E-01       5.41100E-03       1.13597E-02       2.09937E+00       2.46719E-01       2.46845E-01
+       1.20226E-01       1.25892E-01       1.23059E-01       5.66600E-03       1.18953E-02       2.09941E+00       2.58351E-01       2.58740E-01
+       1.25892E-01       1.31826E-01       1.28859E-01       5.93400E-03       1.24560E-02       2.09909E+00       2.70486E-01       2.71196E-01
+       1.31826E-01       1.38038E-01       1.34932E-01       6.21200E-03       1.17244E-02       1.88738E+00       2.54668E-01       2.82920E-01
+       1.38038E-01       1.44544E-01       1.41291E-01       6.50600E-03       1.14891E-02       1.76593E+00       2.49510E-01       2.94409E-01
+       1.44544E-01       1.51356E-01       1.47950E-01       6.81200E-03       1.20304E-02       1.76606E+00       2.61288E-01       3.06440E-01
+       1.51356E-01       1.58489E-01       1.54923E-01       7.13300E-03       1.25975E-02       1.76608E+00       2.73606E-01       3.19037E-01
+       1.58489E-01       1.65959E-01       1.62224E-01       7.47000E-03       1.31912E-02       1.76589E+00       2.86470E-01       3.32228E-01
+       1.65959E-01       1.73780E-01       1.69869E-01       7.82100E-03       1.38129E-02       1.76612E+00       3.00011E-01       3.46041E-01
+       1.73780E-01       1.81970E-01       1.77875E-01       8.19000E-03       1.44638E-02       1.76603E+00       3.14133E-01       3.60505E-01
+       1.81970E-01       1.90546E-01       1.86258E-01       8.57600E-03       1.51455E-02       1.76604E+00       3.28938E-01       3.75651E-01
+       1.90546E-01       1.99526E-01       1.95036E-01       8.98000E-03       1.58592E-02       1.76605E+00       3.44444E-01       3.91510E-01
+       1.99526E-01       2.08930E-01       2.04228E-01       9.40400E-03       1.45020E-02       1.54211E+00       3.14943E-01       4.06012E-01
+       2.08930E-01       2.18776E-01       2.13853E-01       9.84600E-03       1.47344E-02       1.49648E+00       3.20028E-01       4.20746E-01
+       2.18776E-01       2.29087E-01       2.23931E-01       1.03110E-02       1.54287E-02       1.49634E+00       3.35077E-01       4.36175E-01
+       2.29087E-01       2.39883E-01       2.34485E-01       1.07960E-02       1.61558E-02       1.49646E+00       3.50898E-01       4.52331E-01
+       2.39883E-01       2.51189E-01       2.45536E-01       1.13060E-02       1.69172E-02       1.49630E+00       3.67396E-01       4.69248E-01
+       2.51189E-01       2.63027E-01       2.57108E-01       1.18380E-02       1.77146E-02       1.49642E+00       3.84742E-01       4.86962E-01
+       2.63027E-01       2.75423E-01       2.69225E-01       1.23960E-02       1.67841E-02       1.35399E+00       3.64529E-01       5.03747E-01
+       2.75423E-01       2.88403E-01       2.81913E-01       1.29800E-02       1.62665E-02       1.25320E+00       3.53294E-01       5.20013E-01
+       2.88403E-01       3.01995E-01       2.95199E-01       1.35920E-02       1.70331E-02       1.25317E+00       3.69935E-01       5.37046E-01
+       3.01995E-01       3.16228E-01       3.09112E-01       1.42330E-02       1.78359E-02       1.25314E+00       3.87358E-01       5.54882E-01
+       3.16228E-01       3.31131E-01       3.23680E-01       1.49030E-02       1.86764E-02       1.25320E+00       4.05634E-01       5.73558E-01
+       3.31131E-01       3.46737E-01       3.38934E-01       1.56060E-02       1.74479E-02       1.11802E+00       3.78936E-01       5.91006E-01
+       3.46737E-01       3.63078E-01       3.54908E-01       1.63410E-02       1.74903E-02       1.07033E+00       3.79870E-01       6.08497E-01
+       3.63078E-01       3.80189E-01       3.71633E-01       1.71110E-02       1.83146E-02       1.07034E+00       3.97774E-01       6.26811E-01
+       3.80189E-01       3.98107E-01       3.89148E-01       1.79180E-02       1.91778E-02       1.07031E+00       4.16509E-01       6.45989E-01
+       3.98107E-01       4.16869E-01       4.07488E-01       1.87620E-02       1.77959E-02       9.48510E-01       3.86506E-01       6.63785E-01
+       4.16869E-01       4.36516E-01       4.26692E-01       1.96470E-02       1.79579E-02       9.14026E-01       3.90008E-01       6.81743E-01
+       4.36516E-01       4.57088E-01       4.46802E-01       2.05720E-02       1.88043E-02       9.14072E-01       4.08409E-01       7.00547E-01
+       4.57088E-01       4.78630E-01       4.67859E-01       2.15420E-02       1.82313E-02       8.46314E-01       3.95956E-01       7.18778E-01
+       4.78630E-01       5.01187E-01       4.89909E-01       2.25570E-02       1.70964E-02       7.57919E-01       3.71311E-01       7.35875E-01
+       5.01187E-01       5.24808E-01       5.12998E-01       2.36210E-02       1.79022E-02       7.57893E-01       3.88797E-01       7.53777E-01
+       5.24808E-01       5.49541E-01       5.37174E-01       2.47330E-02       1.74188E-02       7.04272E-01       3.78317E-01       7.71196E-01
+       5.49541E-01       5.75440E-01       5.62490E-01       2.58990E-02       1.70298E-02       6.57548E-01       3.69865E-01       7.88226E-01
+       5.75440E-01       6.02560E-01       5.89000E-01       2.71200E-02       1.77501E-02       6.54503E-01       3.85502E-01       8.05976E-01
+       6.02560E-01       6.30957E-01       6.16758E-01       2.83970E-02       1.58443E-02       5.57957E-01       3.44125E-01       8.21820E-01
+       6.30957E-01       6.60693E-01       6.45825E-01       2.97360E-02       1.64164E-02       5.52072E-01       3.56542E-01       8.38237E-01
+       6.60693E-01       6.91831E-01       6.76262E-01       3.11380E-02       1.53690E-02       4.93577E-01       3.33787E-01       8.53606E-01
+       6.91831E-01       7.24436E-01       7.08133E-01       3.26050E-02       1.52298E-02       4.67101E-01       3.30770E-01       8.68835E-01
+       7.24436E-01       7.58578E-01       7.41507E-01       3.41420E-02       1.44969E-02       4.24606E-01       3.14848E-01       8.83332E-01
+       7.58578E-01       7.94328E-01       7.76453E-01       3.57500E-02       1.42467E-02       3.98508E-01       3.09423E-01       8.97579E-01
+       7.94328E-01       8.31764E-01       8.13046E-01       3.74360E-02       1.32347E-02       3.53529E-01       2.87435E-01       9.10814E-01
+       8.31764E-01       8.70964E-01       8.51364E-01       3.92000E-02       1.31296E-02       3.34938E-01       2.85154E-01       9.23943E-01
+       8.70964E-01       9.12011E-01       8.91487E-01       4.10470E-02       1.18227E-02       2.88028E-01       2.56773E-01       9.35766E-01
+       9.12011E-01       9.54993E-01       9.33502E-01       4.29820E-02       1.15555E-02       2.68845E-01       2.50967E-01       9.47321E-01
+       9.54993E-01       1.00000E+00       9.77497E-01       4.50070E-02       1.08870E-02       2.41897E-01       2.36453E-01       9.58208E-01
+       1.00000E+00       1.04713E+00       1.02357E+00       4.71300E-02       9.90206E-03       2.10101E-01       2.15052E-01       9.68111E-01
+       1.04713E+00       1.09648E+00       1.07181E+00       4.93500E-02       9.39559E-03       1.90387E-01       2.04057E-01       9.77506E-01
+       1.09648E+00       1.14815E+00       1.12231E+00       5.16700E-02       8.67586E-03       1.67909E-01       1.88447E-01       9.86182E-01
+       1.14815E+00       1.20226E+00       1.17520E+00       5.41100E-02       7.43294E-03       1.37367E-01       1.61435E-01       9.93615E-01
+       1.20226E+00       1.25892E+00       1.23059E+00       5.66600E-02       4.14908E-03       7.32276E-02       9.01132E-02       9.97764E-01
+       1.25892E+00       1.31826E+00       1.28859E+00       5.93400E-02       1.82181E-03       3.07013E-02       3.95613E-02       9.99586E-01
+       1.31826E+00       1.38038E+00       1.34932E+00       6.21200E-02       4.14057E-04       6.66544E-03       8.99381E-03       1.00000E+00
+
+ Sum =                                                                         1.00000E+00
+ Renormalization bin#  1012 =                                                  2.85721E-02 barn        2.72000E+07        2.74000E+07        2.73000E+07
+ Avg. Energy     bin#  1012 =                                                  3.54868E-01 MeV         2.72000E+07        2.74000E+07
