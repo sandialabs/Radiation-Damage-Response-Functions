@@ -1,0 +1,22 @@
+"        MT=107 recoil spectrum "
+" Initial neutron energy corresponds to the group:"
+   1.44544E-01    1.51356E-01       1.09450E-11           822           825             4
+ Debug druck set-a:   822      0.00000E+00        6.21200E-03        0.00000E+00
+ Debug druck set-a:   823      5.53243E-10        6.50600E-03        3.59940E-12
+ Debug druck set-a:   824      1.60672E-09        6.81200E-03        1.09450E-11
+ Debug druck set-a:   825      1.36644E-09        7.13300E-03        9.74680E-12
+
+
+
+          Low               High              Mid              Energy           Number             dn/de            E*dn/de          Cumulative
+         Energy            Energy            Energy             Width          Fraction                               Sum   
+         [MeV]             [MeV]             [MeV]              [MeV]
+
+       1.31826E-01       1.38038E-01       1.34932E-01       6.21200E-03       0.00000E+00       0.00000E+00       0.00000E+00       0.00000E+00
+       1.38038E-01       1.44544E-01       1.41291E-01       6.50600E-03       1.48177E-01       2.27755E+01       3.21797E+00       1.48177E-01
+       1.44544E-01       1.51356E-01       1.47950E-01       6.81200E-03       4.50575E-01       6.61442E+01       9.78604E+00       5.98752E-01
+       1.51356E-01       1.58489E-01       1.54923E-01       7.13300E-03       4.01248E-01       5.62524E+01       8.71476E+00       1.00000E+00
+
+ Sum =                                                                         1.00000E+00
+ Renormalization bin#   824 =                                                  2.42912E-11 barn        1.44544E+05        1.51356E+05        1.47950E+05
+ Avg. Energy     bin#   824 =                                                  1.49761E-01 MeV         1.44544E+05        1.51356E+05
